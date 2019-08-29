@@ -4,8 +4,8 @@
 
 **Title**: TossingBot: Learning to Throw Arbitrary Objects with Residual Physics  
 **Author**: Andy Zeng, Shuran Song, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser  
-*Conference*: RSS 2019  
-*Misc*: Best Systems Paper Award  
+**Conference**: RSS 2019  
+**Misc**: Best Systems Paper Award  
 
 **Presenter**: Ahmet Tekden
 
