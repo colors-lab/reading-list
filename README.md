@@ -8,6 +8,6 @@
 **Misc**: Best Systems Paper Award  
 **Link**: https://arxiv.org/abs/1903.11239  
 **Project page**: https://tossingbot.cs.princeton.edu/  
-**Presentation Link**: https://docs.google.com/presentation/d/1kyMQfFmKxTTL79eSbps_mpTUW9gAUcFz425MKSxGxE8/edit?usp=sharing
+**[Presentation Link](https://docs.google.com/presentation/d/1kyMQfFmKxTTL79eSbps_mpTUW9gAUcFz425MKSxGxE8/edit?usp=sharing)**:   
 **Presenter**: Ahmet Tekden
 
