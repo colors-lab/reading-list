@@ -11,3 +11,11 @@
 **[Presentation Link](https://docs.google.com/presentation/d/1kyMQfFmKxTTL79eSbps_mpTUW9gAUcFz425MKSxGxE8/edit?usp=sharing)**:   
 **Presenter**: Ahmet Tekden
 
+### Week 2 - 05.09.2019
+
+**Title**: Commonsense Reasoning and Knowledge Acquisition to Guide Deep Learning on Robots  
+**Author**: Tiago Mota, Mohan Sridharan  
+**Conference**: RSS 2019  
+**Misc**: Best Paper Nominee  
+**Link**: www.roboticsproceedings.org/rss15/p77.pdf  
+**Presenter**: Alper Ahmetoğlu  
