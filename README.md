@@ -9,7 +9,7 @@
 **Link**: https://arxiv.org/abs/1903.11239  
 **Project page**: https://tossingbot.cs.princeton.edu/  
 **[Presentation Link](https://docs.google.com/presentation/d/1kyMQfFmKxTTL79eSbps_mpTUW9gAUcFz425MKSxGxE8/edit?usp=sharing)**:   
-**Presenter**: Ahmet Tekden
+**Presenter**: (Ahmet Tekden)[https://github.com/fzaero]  
 
 ### Week 2 - 05.09.2019
 
@@ -18,4 +18,5 @@
 **Conference**: RSS 2019  
 **Misc**: Best Paper Nominee  
 **Link**: www.roboticsproceedings.org/rss15/p77.pdf  
-**Presenter**: Alper Ahmetoğlu  
+**Presenter**: (Alper Ahmetoğlu)[https://github.com/alper111]  
+
