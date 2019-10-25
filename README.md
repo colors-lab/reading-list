@@ -38,7 +38,7 @@
 **Conference**: ICRA 2019  
 **Misc**: Best Student Paper Finalist  
 **Link**: https://arxiv.org/abs/1810.05687  
-**Presenter**: Melisa Şener  
+**Presenter**: [Melisa Şener](https://github.com/melsener)  
 
 ### Week 6 - 04.10.2019
 
@@ -61,8 +61,4 @@
 **Author**: Sergey Levine, Nolan Wagener, Pieter Abbeel  
 **Conference**: ICRA 2015  
 **Link**: https://arxiv.org/abs/1501.05611  
-**Presenter**: Mete Tuluhan Akbulut
-
-
-
-
+**Presenter**: [Mete Tuluhan Akbulut](https://github.com/tuluhan-colors)
