@@ -28,3 +28,41 @@
 **Conference**: RSS 2019  
 **Link**: www.roboticsproceedings.org/rss15/p46.html  
 **Presenter**: Ece Ada  
+
+### Week 4 - ?
+
+### Week 5 - 27.09.2019
+
+**Title**: Closing the Sim-to-Real Loop: Adapting Simulation Randomization with Real World Experience  
+**Author**: Yevgen Chebotar, Ankur Handa, Viktor Makoviychuk, Miles Macklin, Jan Issac, Nathan Ratliff, Dieter Fox  
+**Conference**: ICRA 2019  
+**Misc**: Best Student Paper Finalist  
+**Link**: https://arxiv.org/abs/1810.05687  
+**Presenter**: Melisa Şener  
+
+### Week 6 - 04.10.2019
+
+**Title**: Self-attention in general  
+**Link**: https://arxiv.org/abs/1706.03762  
+**Presenter**: [Alper Ahmetoğlu](https://github.com/alper111)
+
+### Week 7 - 11.10.2019
+
+**Title**: Learning Synergies between Pushing and Grasping with Self-supervised  
+**Author**: Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser  
+**Conference**: IROS 2018  
+**Misc**: Best Cognitive Robotics Paper Award Finalist  
+**Link**: http://vpg.cs.princeton.edu/, https://arxiv.org/abs/1803.09956  
+**Presenter**: Serkan Buğur  
+
+### Week 8 - 18.10.2019
+
+**Title**: Learning Contact-Rich Manipulation Skills with Guided Policy Search  
+**Author**: Sergey Levine, Nolan Wagener, Pieter Abbeel  
+**Conference**: ICRA 2015  
+**Link**: https://arxiv.org/abs/1501.05611  
+**Presenter**: Mete Tuluhan Akbulut
+
+
+
+
