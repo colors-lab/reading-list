@@ -53,7 +53,8 @@
 **Conference**: IROS 2018  
 **Misc**: Best Cognitive Robotics Paper Award Finalist  
 **Link**: http://vpg.cs.princeton.edu/, https://arxiv.org/abs/1803.09956  
-**Presenter**: Serkan Buğur  
+**[Presentation Link](https://docs.google.com/presentation/d/1_RQZcXS7DVPk2F1nmh-v0-GuKJX_GzjPdgUNC3QpL7E/edit?usp=sharing)**   
+**Presenter**: Serkan Buğur
 
 ### Week 8 - 18.10.2019
 
