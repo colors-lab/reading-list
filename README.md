@@ -38,6 +38,7 @@
 **Conference**: ICRA 2019  
 **Misc**: Best Student Paper Finalist  
 **Link**: https://arxiv.org/abs/1810.05687  
+**[Presentation Link](https://docs.google.com/presentation/d/1P6eSuKPYaaFf_ty-ECss3WkL_tfscFPoW0RHO-7Mlng/edit?usp=sharing)**
 **Presenter**: [Melisa Şener](https://github.com/melsener)  
 
 ### Week 6 - 04.10.2019
