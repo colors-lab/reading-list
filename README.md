@@ -54,7 +54,7 @@
 **Conference**: IROS 2018  
 **Misc**: Best Cognitive Robotics Paper Award Finalist  
 **Link**: http://vpg.cs.princeton.edu/, https://arxiv.org/abs/1803.09956  
-**[Presentation Link](https://docs.google.com/presentation/d/1_RQZcXS7DVPk2F1nmh-v0-GuKJX_GzjPdgUNC3QpL7E/edit?usp=sharing)**   
+**[Presentation Link](https://docs.google.com/presentation/d/1_RQZcXS7DVPk2F1nmh-v0-GuKJX_GzjPdgUNC3QpL7E/edit?usp=sharing)** 
 **Presenter**: Serkan Buğur
 
 ### Week 8 - 18.10.2019
@@ -64,3 +64,16 @@
 **Conference**: ICRA 2015  
 **Link**: https://arxiv.org/abs/1501.05611  
 **Presenter**: [Mete Tuluhan Akbulut](https://github.com/tuluhan-colors)
+
+
+### Week 9 - 22.11.2019
+**Presenter**: Ahmet E. Tekden
+
+### Week 10 - 29.11.2019
+**Title**: Learning to Manipulate Object Collections Using Grounded State Representations
+**Author**: Matthew Wilson, Tucker Hermans 
+**Conference**: CORL 2019  
+**Misc**: Best System Paper Award  
+**Link**: https://matwilso.github.io/projects/object_collections, https://arxiv.org/abs/1909.07876  
+**[Presentation Link](https://docs.google.com/presentation/d/1lZRP9tsMgtJIxQWgw3HajBTC7KxFGcmT1ROm4Jn3uOo/edit?usp=sharing)** 
+**Presenter**: M. Yunus Seker
