@@ -67,7 +67,12 @@
 
 
 ### Week 9 - 22.11.2019
-**Presenter**: Ahmet E. Tekden
+**Title**: Belief Regulated Dual Propagation Nets for Learning Action Effects on Articulated Multi-Part Objects  
+**Author**: Ahmet E. Tekden, Aykut Erdem, Erkut Erdem, Mert Imre, M. Yunus Seker, Emre Ugur 
+**Link**: https://arxiv.org/abs/1909.03785  
+**Project page**: https://fzaero.github.io/BRDPN/
+**[Presentation Link](https://docs.google.com/presentation/d/1zF2ffoYaYnAmtRD3EFPQK4OFlKBPNLg0hLT8Mo3nyOw/edit?usp=sharing)**   
+**Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
 
 ### Week 10 - 29.11.2019
 **Title**: Learning to Manipulate Object Collections Using Grounded State Representations
@@ -79,4 +84,13 @@
 
 **Presenter**: [M. Yunus Seker](https://myunusseker.github.io)
 
+
+### Week 11 - 06.12.2019
+**Title**: Differentiable Physics and Stable Modes for Tool Use and Manipulation Planning  
+**Author**: Marc Toussaint, Kelsey R Allen, Kevin A Smith, Joshua B Tenenbaum 
+**Link**: http://www.roboticsproceedings.org/rss14/p44.pdf
+**Conference**: RSS 2018  
+**Misc**: Best Paper Award  
+**[Presentation Link](https://docs.google.com/presentation/d/1UjQKc86Tz7PoCIoOBhW1KzQyABlHkhnOW0m011aubB4/edit?usp=sharing)**   
+**Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
 
