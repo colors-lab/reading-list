@@ -71,7 +71,7 @@
 **Author**: Ahmet E. Tekden, Aykut Erdem, Erkut Erdem, Mert Imre, M. Yunus Seker, Emre Ugur  
 **Link**: https://arxiv.org/abs/1909.03785  
 **Project page**: https://fzaero.github.io/BRDPN/  
-**[Presentation Link](https://docs.google.com/presentation/d/1zF2ffoYaYnAmtRD3EFPQK4OFlKBPNLg0hLT8Mo3nyOw/edit?usp=sharing)**
+**[Presentation Link](https://docs.google.com/presentation/d/1zF2ffoYaYnAmtRD3EFPQK4OFlKBPNLg0hLT8Mo3nyOw/edit?usp=sharing)**  
 **Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
 
 ### Week 10 - 29.11.2019
@@ -79,7 +79,7 @@
 **Author**: Matthew Wilson, Tucker Hermans 
 **Conference**: CORL 2019  
 **Misc**: Best System Paper Award  
-**Link**: https://matwilso.github.io/projects/object_collections, https://arxiv.org/abs/1909.07876
+**Link**: https://matwilso.github.io/projects/object_collections, https://arxiv.org/abs/1909.07876  
 **[Presentation Link](https://docs.google.com/presentation/d/1lZRP9tsMgtJIxQWgw3HajBTC7KxFGcmT1ROm4Jn3uOo/edit?usp=sharing)**  
 **Presenter**: [M. Yunus Seker](https://myunusseker.github.io)
 
