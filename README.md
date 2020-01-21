@@ -65,8 +65,17 @@
 **Link**: https://arxiv.org/abs/1501.05611  
 **Presenter**: [Mete Tuluhan Akbulut](https://github.com/tuluhan-colors)
 
+### Week 9 - 28.10.2019
 
-### Week 9 - 22.11.2019
+**Title**: End-to-End Robotic Reinforcement Learning without Reward Engineering
+**Author**: Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine  
+**Conference**: RSS 2019
+**Link**: https://arxiv.org/abs/1904.07854
+**[Presentation Link](https://docs.google.com/presentation/d/1qc0xQDQKsIse_zFT5i-U5cJEotaEWlpIhE21h7jV3lU/edit?usp=sharing)** 
+**Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)
+
+
+### Week 10 - 22.11.2019
 **Title**: Belief Regulated Dual Propagation Nets for Learning Action Effects on Articulated Multi-Part Objects  
 **Author**: Ahmet E. Tekden, Aykut Erdem, Erkut Erdem, Mert Imre, M. Yunus Seker, Emre Ugur  
 **Link**: https://arxiv.org/abs/1909.03785  
@@ -74,7 +83,7 @@
 **[Presentation Link](https://docs.google.com/presentation/d/1zF2ffoYaYnAmtRD3EFPQK4OFlKBPNLg0hLT8Mo3nyOw/edit?usp=sharing)**  
 **Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
 
-### Week 10 - 29.11.2019
+### Week 11 - 29.11.2019
 **Title**: Learning to Manipulate Object Collections Using Grounded State Representations
 **Author**: Matthew Wilson, Tucker Hermans 
 **Conference**: CORL 2019  
@@ -84,7 +93,7 @@
 **Presenter**: [M. Yunus Seker](https://myunusseker.github.io)
 
 
-### Week 11 - 06.12.2019
+### Week 12 - 06.12.2019
 **Title**: Differentiable Physics and Stable Modes for Tool Use and Manipulation Planning   
 **Author**: Marc Toussaint, Kelsey R Allen, Kevin A Smith, Joshua B Tenenbaum  
 **Link**: http://www.roboticsproceedings.org/rss14/p44.pdf  
