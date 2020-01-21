@@ -67,13 +67,12 @@
 
 ### Week 9 - 28.10.2019
 
-**Title**: End-to-End Robotic Reinforcement Learning without Reward Engineering
+**Title**: End-to-End Robotic Reinforcement Learning without Reward Engineering  
 **Author**: Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine  
-**Conference**: RSS 2019
-**Link**: https://arxiv.org/abs/1904.07854
-**[Presentation Link](https://docs.google.com/presentation/d/1qc0xQDQKsIse_zFT5i-U5cJEotaEWlpIhE21h7jV3lU/edit?usp=sharing)** 
+**Conference**: RSS 2019  
+**Link**: https://arxiv.org/abs/1904.07854  
+**[Presentation Link](https://docs.google.com/presentation/d/1qc0xQDQKsIse_zFT5i-U5cJEotaEWlpIhE21h7jV3lU/edit?usp=sharing)**   
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)
-
 
 ### Week 10 - 22.11.2019
 **Title**: Belief Regulated Dual Propagation Nets for Learning Action Effects on Articulated Multi-Part Objects  
