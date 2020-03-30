@@ -63,7 +63,7 @@
 **Author**: Sergey Levine, Nolan Wagener, Pieter Abbeel  
 **Conference**: ICRA 2015  
 **Link**: https://arxiv.org/abs/1501.05611  
-**Presenter**: [Mete Tuluhan Akbulut](https://github.com/tuluhan-colors)
+**Presenter**: [Mete Tuluhan Akbulut](https://github.com/mtuluhanakbulut)
 
 ### Week 9 - 28.10.2019
 
@@ -100,4 +100,12 @@
 **Misc**: Best Paper Award   
 **[Presentation Link](https://docs.google.com/presentation/d/1UjQKc86Tz7PoCIoOBhW1KzQyABlHkhnOW0m011aubB4/edit?usp=sharing)**    
 **Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
+
+### Week 13 - 27.03.2020
+**Title**: Adaptive Conditional Neural Movement Primitives via Representation Sharing Between Supervised and Reinforcement Learning  
+**Author**: M.Tuluhan Akbulut, M.Yunus Seker, Ahmet E. Tekden, Yukie Nagai, Erhan Oztop, Emre Ugur  
+**Link**: https://arxiv.org/abs/2003.11334
+**Conference**: Under review    
+**[Presentation Link](https://docs.google.com/presentation/d/1NxsjCRVvB3CvBYJhU_DOiPzOCnxwcyOl0POymkY92C0/edit?usp=sharing)**    
+**Presenter**: [Mete Tuluhan Akbulut](https://github.com/mtuluhanakbulut)  
 
