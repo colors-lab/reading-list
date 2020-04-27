@@ -109,3 +109,34 @@
 **[Presentation Link](https://docs.google.com/presentation/d/1NxsjCRVvB3CvBYJhU_DOiPzOCnxwcyOl0POymkY92C0/edit?usp=sharing)**    
 **Presenter**: [Mete Tuluhan Akbulut](https://github.com/mtuluhanakbulut)  
 
+### Week 14 - 03.04.2020
+**Title**: 
+**Author**:
+**Link**: 
+**Conference**:    
+**[Presentation Link]()**    
+**Presenter**: 
+
+### Week 15 - 10.04.2020
+**Title**: 
+**Author**:
+**Link**: 
+**Conference**:    
+**[Presentation Link]()**    
+**Presenter**: 
+
+### Week 16 - 17.04.2020
+**Title**: 
+**Author**:
+**Link**: 
+**Conference**:    
+**[Presentation Link]()**    
+**Presenter**: 
+
+### Week 14 - 24.04.2020
+**Title**: 
+**Author**:
+**Link**: 
+**Conference**:    
+**[Presentation Link]()**    
+**Presenter**: 
