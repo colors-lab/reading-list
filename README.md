@@ -126,14 +126,14 @@
 **Presenter**: 
 
 ### Week 16 - 17.04.2020
-**Title**: 
-**Author**:
-**Link**: 
-**Conference**:    
-**[Presentation Link]()**    
-**Presenter**: 
+**Title**: Autonomous Reinforcement Learning of Multiple Interrelated Tasks
+**Author**:Vieri Giuliano Santucci, Gianluca Baldassarre, Emilio Cartoni
+**Link**: https://arxiv.org/abs/1906.01374
+**Conference**: ICDL-EpiRob 2019
+**[Presentation Link](https://docs.google.com/presentation/d/10LOKIp2G9JbzTQwIvYTLMn2CYFIjkr-vwh_C2WQjvNI/edit?usp=sharing)**    
+**Presenter**: [Melisa Şener](https://github.com/melsener)  
 
-### Week 14 - 24.04.2020
+### Week 17 - 24.04.2020
 **Title**: 
 **Author**:
 **Link**: 
