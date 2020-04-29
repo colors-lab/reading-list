@@ -140,9 +140,10 @@
 
 
 ### Week 17 - 24.04.2020
-**Title**: 
-**Author**:
-**Link**: 
-**Conference**:    
-**[Presentation Link]()**    
-**Presenter**: 
+**Title**: Modeling Conceptual Understanding in Image Reference Games
+
+**Author**: Rodolfo Corona, Stephan Alaniz, Zeynep Akata
+**Link**: https://arxiv.org/abs/1910.04872
+**Conference**: NeurIPS 2019    
+**[Presentation Link](https://docs.google.com/presentation/d/1zEjoFszLx1VFX7CvuwElHaOhv2c0JHADO_WwI3mBe0k/edit?usp=sharing)**    
+**Presenter**: [Serkan Bugur](https://serkanbugur.github.io/)
