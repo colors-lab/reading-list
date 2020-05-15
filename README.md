@@ -153,7 +153,7 @@
 
 ### Week 18,19 - 08,15.05.2020
 
-**Title**: Improvisation through Physical Understanding:Using Novel Objects as Tools with Visual Foresight  
+**Title**: Improvisation through Physical Understanding: Using Novel Objects as Tools with Visual Foresight  
 **Authors**: Annie Xie, Frederik Ebert, Sergey Levine, Chelsea Finn  
 **Conference**: RSS 2019  
 **Link**: http://www.roboticsproceedings.org/rss15/p01.pdf  
