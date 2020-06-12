@@ -159,3 +159,12 @@
 **Link**: http://www.roboticsproceedings.org/rss15/p01.pdf  
 **[Presentation Link](https://docs.google.com/presentation/d/1nRQo65u5U_l7yyaePpI0NWf49hDMWVuXxUIE2Ghmzws/edit?usp=sharing)**   
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+
+### Week 20 - 12.06.2020
+
+**Title**: Learning Portable Representations for High-Level Planning  
+**Authors**: Steven James, Benjamin Rosman, George Konidaris  
+**Conference**: ICML 2020  
+**Link**: https://arxiv.org/abs/1905.12006  
+**Presenter**: [Alper Ahmetoğlu](https://github.com/alper111)  
+
