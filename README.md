@@ -153,3 +153,28 @@
 **Link**: https://arxiv.org/abs/1905.12006  
 **Presenter**: [Alper Ahmetoğlu](https://github.com/alper111)  
 **[Presentation](slides/james2019learning.pdf)**
+
+### Week 21 - Missing
+
+### Week 22 - 26.06.2020
+
+**Title**: Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning  
+**Authors**: Abhishek Gupta, Coline Devin, YuXuan Liu, Pieter Abbeel, Sergey Levine  
+**Conference**: ICLR 2017  
+**Link**: https://arxiv.org/abs/1703.02949  
+**Presenter**: [Mete Tuluhan Akbulut](https://github.com/mtuluhanakbulut)
+
+### Week 23 - 03.07.2020
+
+**Title**: CURL: Contrastive Unsupervised Representations for Reinforcement Learning  
+**Authors**: Aravind Srinivas, Michael Laskin, Pieter Abbeel  
+**Link**: https://arxiv.org/abs/2004.04136  
+**Presenter**: Ece Ada
+
+### Week 24 - 21.08.2020
+
+**Title**: Simultaneously Learning Transferable Symbols and Language Groundings from Perceptual Data for Instruction Following  
+**Authors**: Nakul Gopalan, Eric Rosen, George Konidaris, Stefanie Tellex  
+**Conference**: RSS 2020  
+**Link**: https://roboticsconference.org/program/papers/102/  
+**Presenter**: [Alper Ahmetoğlu](https://github.com/alper111)
