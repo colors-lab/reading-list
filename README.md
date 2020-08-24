@@ -177,4 +177,5 @@
 **Authors**: Nakul Gopalan, Eric Rosen, George Konidaris, Stefanie Tellex  
 **Conference**: RSS 2020  
 **Link**: https://roboticsconference.org/program/papers/102/  
-**Presenter**: [Alper Ahmetoğlu](https://github.com/alper111)
+**Presenter**: [Alper Ahmetoğlu](https://github.com/alper111)  
+**[Presentation](slides/gopalan2020simultaneously.pdf)**
