@@ -179,3 +179,12 @@
 **Link**: https://roboticsconference.org/program/papers/102/  
 **Presenter**: [Alper Ahmetoğlu](https://github.com/alper111)  
 **[Presentation](slides/gopalan2020simultaneously.pdf)**
+
+### Week 25 - 28.08.2020
+
+**Title**: Scalable Multi-Task Imitation Learning with Autonomous Improvement  
+**Authors**: Avi Singh, Eric Jang, Alexander Irpan, Daniel Kappler, Murtaza Dalal, Sergey Levine, Mohi Khansari, Chelsea Finn  
+**Conference**: ICRA 2020  
+**Link**: https://arxiv.org/abs/2003.02636  
+**Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**[Presentation](https://docs.google.com/presentation/d/1vogBRhnMyGKWv4lZyUAvdqH-kTuRTsvOb8GEjPnRScg/edit?usp=sharing)**
