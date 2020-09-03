@@ -169,7 +169,8 @@
 **Title**: CURL: Contrastive Unsupervised Representations for Reinforcement Learning  
 **Authors**: Aravind Srinivas, Michael Laskin, Pieter Abbeel  
 **Link**: https://arxiv.org/abs/2004.04136  
-**Presenter**: Ece Ada
+**Presenter**: Ece Ada  
+**[Presentation](slides/srinivas2020curl.pdf)**
 
 ### Week 24 - 21.08.2020
 
