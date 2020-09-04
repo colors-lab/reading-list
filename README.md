@@ -189,3 +189,14 @@
 **Link**: https://arxiv.org/abs/2003.02636  
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
 **[Presentation](https://docs.google.com/presentation/d/1vogBRhnMyGKWv4lZyUAvdqH-kTuRTsvOb8GEjPnRScg/edit?usp=sharing)**
+
+### Week 26 - 04.09.2020
+
+**Title**: Dense Object Nets: Learning Dense Visual Object Descriptors By and For Robotic Manipulation  
+**Author**: Peter R. Florence, Lucas Manuelli, Russ Tedrake  
+**Conference**: CoRL 2018  
+**Misc**: Best Paper Award  
+**Link**: http://proceedings.mlr.press/v87/florence18a/florence18a.pdf  
+**Code**: https://github.com/RobotLocomotion/pytorch-dense-correspondence   
+**Presenter**: [Ahmet Tekden](https://github.com/fzaero)   
+**[Presentation](https://docs.google.com/presentation/d/1Vi9dm69P71MLZs7jzmzV8AmgNXo-QXR36TXHSjZqXxo/edit?usp=sharing)**   
