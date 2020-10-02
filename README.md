@@ -200,3 +200,12 @@
 **Code**: https://github.com/RobotLocomotion/pytorch-dense-correspondence   
 **Presenter**: [Ahmet Tekden](https://github.com/fzaero)   
 **[Presentation](https://docs.google.com/presentation/d/1Vi9dm69P71MLZs7jzmzV8AmgNXo-QXR36TXHSjZqXxo/edit?usp=sharing)**   
+
+### Week 30 - 02.10.2020
+
+**Title**: Better-than-Demonstrator Imitation Learning via Automatically-Ranked Demonstrations  
+**Authors**: Daniel S. Brown, Wonjoon Goo, Scott Niekum    
+**Conference**: CoRL 2019  
+**Link**: https://arxiv.org/abs/1907.03976  
+**Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**[Presentation](https://docs.google.com/presentation/d/1pCKGUl9ABi_o16aB_MI2QOFHiUHWAaA4DaDmOuiuo_g/edit?usp=sharing)**
