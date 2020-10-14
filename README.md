@@ -203,11 +203,11 @@
 
 ### Week 29 - 25.09.2020
 
-**Title**: Autonomous Identification and Goal-Directed Invocation of Event-Predictive Behavioral Primitives 
-**Author**: Christian Gumbsch, Martin V. Butz, Georg Martius
-**Link**: https://arxiv.org/abs/1902.09948   
-**Presenter**: [Hamit_Basgol](https://github.com/Hbasgol)   
-**[Presentation](https://drive.google.com/file/d/1QOiGESOt9YHRf3RjOriT45yIll7Ve-V8/view?usp=sharing)**   
+**Title**: Autonomous Identification and Goal-Directed Invocation of Event-Predictive Behavioral Primitives  
+**Author**: Christian Gumbsch, Martin V. Butz, Georg Martius  
+**Link**: https://arxiv.org/abs/1902.09948    
+**Presenter**: [Hamit_Basgol](https://github.com/Hbasgol)  
+**[Presentation](https://drive.google.com/file/d/1QOiGESOt9YHRf3RjOriT45yIll7Ve-V8/view?usp=sharing)**  
 
 ### Week 30 - 02.10.2020
 
