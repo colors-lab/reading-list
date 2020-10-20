@@ -197,22 +197,37 @@
 **Conference**: CoRL 2018  
 **Misc**: Best Paper Award  
 **Link**: http://proceedings.mlr.press/v87/florence18a/florence18a.pdf  
-**Code**: https://github.com/RobotLocomotion/pytorch-dense-correspondence   
-**Presenter**: [Ahmet Tekden](https://github.com/fzaero)   
-**[Presentation](https://docs.google.com/presentation/d/1Vi9dm69P71MLZs7jzmzV8AmgNXo-QXR36TXHSjZqXxo/edit?usp=sharing)**   
+**Code**: https://github.com/RobotLocomotion/pytorch-dense-correspondence  
+**Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
+**[Presentation](https://docs.google.com/presentation/d/1Vi9dm69P71MLZs7jzmzV8AmgNXo-QXR36TXHSjZqXxo/edit?usp=sharing)**
+
+### Week 27 - 11.09.2020
+
+**Title**: Cautious Adaptation For Reinforcement Learning in Safety-Critical Settings  
+**Author**: Jesse Zhang, Brian Cheung, Chelsea Finn, Sergey Levine, Dinesh Jayaraman  
+**Conference**: ICML 2020  
+**Link**: https://arxiv.org/abs/2008.06622  
+**Presenter**: Ece Ada
+
+### Week 28 - 18.09.2020
+
+**Title**: Learning human behaviors from motion capture by adversarial imitation  
+**Author**: Josh Merel, Yuval Tassa, Dhruva TB, Sriram Srinivasan, Jay Lemmon, Ziyu Wang, Greg Wayne, Nicolas Heess  
+**Link**: https://arxiv.org/abs/1707.02201  
+**Presenter**: Mehmet Selçuk Albayrak
 
 ### Week 29 - 25.09.2020
 
 **Title**: Autonomous Identification and Goal-Directed Invocation of Event-Predictive Behavioral Primitives  
 **Author**: Christian Gumbsch, Martin V. Butz, Georg Martius  
-**Link**: https://arxiv.org/abs/1902.09948    
-**Presenter**: [Hamit_Basgol](https://github.com/Hbasgol)  
-**[Presentation](https://drive.google.com/file/d/1QOiGESOt9YHRf3RjOriT45yIll7Ve-V8/view?usp=sharing)**  
+**Link**: https://arxiv.org/abs/1902.09948  
+**Presenter**: [Hamit Basgol](https://github.com/Hbasgol)  
+**[Presentation](https://drive.google.com/file/d/1QOiGESOt9YHRf3RjOriT45yIll7Ve-V8/view?usp=sharing)**
 
 ### Week 30 - 02.10.2020
 
 **Title**: Better-than-Demonstrator Imitation Learning via Automatically-Ranked Demonstrations  
-**Authors**: Daniel S. Brown, Wonjoon Goo, Scott Niekum    
+**Authors**: Daniel S. Brown, Wonjoon Goo, Scott Niekum  
 **Conference**: CoRL 2019  
 **Link**: https://arxiv.org/abs/1907.03976  
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
@@ -221,7 +236,7 @@
 ### Week 31 - 09.10.2020
 
 **Title**:  CompILE: Compositional Imitation Learning and Execution  
-**Authors**: Thomas Kipf, Yujia Li, Hanjun Dai, Vinicius Zambaldi, Alvaro Sanchez-Gonzalez, Edward Grefenstette, Pushmeet Kohli, Peter Battaglia    
+**Authors**: Thomas Kipf, Yujia Li, Hanjun Dai, Vinicius Zambaldi, Alvaro Sanchez-Gonzalez, Edward Grefenstette, Pushmeet Kohli, Peter Battaglia  
 **Conference**: ICLM 2019  
 **Link**: https://arxiv.org/abs/1812.01483  
 **Presenter**: [Alara Dirik](https://github.com/alaradirik)  
