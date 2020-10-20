@@ -217,3 +217,12 @@
 **Link**: https://arxiv.org/abs/1907.03976  
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
 **[Presentation](https://docs.google.com/presentation/d/1pCKGUl9ABi_o16aB_MI2QOFHiUHWAaA4DaDmOuiuo_g/edit?usp=sharing)**
+
+### Week 31 - 09.10.2020
+
+**Title**:  CompILE: Compositional Imitation Learning and Execution  
+**Authors**: Thomas Kipf, Yujia Li, Hanjun Dai, Vinicius Zambaldi, Alvaro Sanchez-Gonzalez, Edward Grefenstette, Pushmeet Kohli, Peter Battaglia    
+**Conference**: ICLM 2019  
+**Link**: https://arxiv.org/abs/1812.01483  
+**Presenter**: [Alara Dirik](https://github.com/alaradirik)  
+**[Presentation](slides/kipf2019compile.pdf)**
