@@ -241,3 +241,12 @@
 **Link**: https://arxiv.org/abs/1812.01483  
 **Presenter**: [Alara Dirik](https://github.com/alaradirik)  
 **[Presentation](slides/kipf2019compile.pdf)**
+
+### Week 59 - 14.04.2021
+
+**Title**: A Review of Physics Simulators for Robotic Applications  
+**Authors**: Jack Collins, Shelvin Chand, Anthony Vanderkop, David Howard  
+**Conference**: IEEE Access  
+**Link**: https://ieeexplore.ieee.org/document/9386154  
+**Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**[Presentation](https://docs.google.com/presentation/d/1QtX4afKKJXnHidjRL4oKYy3vjH7qxdbi4Cove4Am_mY/edit?usp=sharing)**
