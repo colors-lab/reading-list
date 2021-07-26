@@ -250,3 +250,12 @@
 **Link**: https://ieeexplore.ieee.org/document/9386154  
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
 **[Presentation](https://docs.google.com/presentation/d/1QtX4afKKJXnHidjRL4oKYy3vjH7qxdbi4Cove4Am_mY/edit?usp=sharing)**
+
+### Week ? - 07.07.2021
+
+**Title**: Adversarial Motion Priors for Stylized Physics-Based Character Control  
+**Authors**: Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa  
+**Journal**: ACM TOG  
+**Link**: https://arxiv.org/pdf/2104.02180.pdf  
+**Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
+**[Presentation](https://docs.google.com/presentation/d/1v73_08pkyVH-CgXrGGhbz_DuZ5qKnqaGpu51x1y5R7Q/edit#slide=id.ge2a7b84e5b_0_104)**
