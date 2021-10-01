@@ -259,3 +259,12 @@
 **Link**: https://arxiv.org/pdf/2104.02180.pdf  
 **Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
 **[Presentation](https://docs.google.com/presentation/d/1v73_08pkyVH-CgXrGGhbz_DuZ5qKnqaGpu51x1y5R7Q/edit#slide=id.ge2a7b84e5b_0_104)**
+
+### Week ? - 29.09.2021
+
+**Title**: Discovering Generalizable Skills via Automated Generation of Diverse Tasks  
+**Authors**: Kuan Fang, Yuke Zhu, Silvio Savarese, Fei-Fei Li  
+**Conference**: RSS 2021  
+**Link**: http://www.roboticsproceedings.org/rss17/p010.pdf  
+**Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**[Presentation](https://docs.google.com/presentation/d/1Xjj2KiswQyDNt9--FUDEwu6skYddGrrSKDkWhP-8iII/edit?usp=sharing)**
