@@ -281,9 +281,9 @@
 ### Week ? - 15.10.2021
 
 **Title**: Imagination-enabled Robot Perception 
-**Authors**: Patrick Mania, Franklin Kenghagho Kenfack, Michael Neumann, Michael Beetz
+**Authors**: Patrick Mania, Franklin Kenghagho Kenfack, Michael Neumann, Michael Beetz  
 **Conference**: IROS 2021  
-**Link**: https://arxiv.org/pdf/2011.11397
+**Link**: https://arxiv.org/pdf/2011.11397  
 **Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347)  
-**[Presentation](https://docs.google.com/presentation/d/1XP2Qzi0_bXddY9lv0QfjufCIlZAtnniS/edit?usp=sharing,)**
+**[Presentation](https://docs.google.com/presentation/d/1XP2Qzi0_bXddY9lv0QfjufCIlZAtnniS/edit?usp=sharing,)**  
 
