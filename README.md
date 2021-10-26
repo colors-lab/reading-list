@@ -268,3 +268,12 @@
 **Link**: http://www.roboticsproceedings.org/rss17/p010.pdf  
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
 **[Presentation](https://docs.google.com/presentation/d/1Xjj2KiswQyDNt9--FUDEwu6skYddGrrSKDkWhP-8iII/edit?usp=sharing)**
+
+### Week ? - 26.10.2021
+
+**Title**: Going Beyond Images: 3D-Aware Representation Learning for Visuomotor Control    
+**Authors**: Yunzhu Li, Shuang Li, Vincent Sitzmann, Pulkit Agrawal, Antonio Torralba    
+**Conference**: CoRL 2021   
+**Link**: https://arxiv.org/pdf/2107.04004.pdf   
+**Presenter**: [M. Yunus Seker](https://myunusseker.github.io)   
+**[Presentation](https://docs.google.com/presentation/d/1AxB16qXbspQw_nFpWM1zatgucZ75U6GaN8De5lz2cgI/edit?usp=sharing)**
