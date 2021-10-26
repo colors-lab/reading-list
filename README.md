@@ -255,7 +255,7 @@
 
 **Title**: KETO: Learning Keypoint Representations for Tool Manipulation  
 **Authors**: Zengyi Qin, Kuan Fang, Yuke Zhu, Li Fei-Fei and Silvio Savarese  
-**Conference**: ICRA 2020 
+**Conference**: ICRA 2020   
 **Link**: https://arxiv.org/pdf/1910.11977  
 **Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347) 
 
