@@ -251,6 +251,14 @@
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
 **[Presentation](https://docs.google.com/presentation/d/1QtX4afKKJXnHidjRL4oKYy3vjH7qxdbi4Cove4Am_mY/edit?usp=sharing)**
 
+### Week ? - 12.05.2021
+
+**Title**: KETO: Learning Keypoint Representations for Tool Manipulation  
+**Authors**: Zengyi Qin, Kuan Fang, Yuke Zhu, Li Fei-Fei and Silvio Savarese  
+**Conference**: ICRA 2020   
+**Link**: https://arxiv.org/pdf/1910.11977  
+**Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347) 
+
 ### Week ? - 07.07.2021
 
 **Title**: Adversarial Motion Priors for Stylized Physics-Based Character Control  
@@ -268,6 +276,15 @@
 **Link**: http://www.roboticsproceedings.org/rss17/p010.pdf  
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
 **[Presentation](https://docs.google.com/presentation/d/1Xjj2KiswQyDNt9--FUDEwu6skYddGrrSKDkWhP-8iII/edit?usp=sharing)**
+
+### Week ? - 15.10.2021
+
+**Title**: Imagination-enabled Robot Perception 
+**Authors**: Patrick Mania, Franklin Kenghagho Kenfack, Michael Neumann, Michael Beetz  
+**Conference**: IROS 2021  
+**Link**: https://arxiv.org/pdf/2011.11397  
+**Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347)  
+**[Presentation](https://docs.google.com/presentation/d/1XP2Qzi0_bXddY9lv0QfjufCIlZAtnniS/edit?usp=sharing,)**  
 
 ### Week ? - 26.10.2021
 
