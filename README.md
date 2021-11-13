@@ -277,7 +277,6 @@
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
 **[Presentation](https://docs.google.com/presentation/d/1Xjj2KiswQyDNt9--FUDEwu6skYddGrrSKDkWhP-8iII/edit?usp=sharing)**
 
-
 ### Week ? - 15.10.2021
 
 **Title**: Imagination-enabled Robot Perception 
@@ -286,7 +285,6 @@
 **Link**: https://arxiv.org/pdf/2011.11397  
 **Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347)  
 **[Presentation](https://docs.google.com/presentation/d/1XP2Qzi0_bXddY9lv0QfjufCIlZAtnniS/edit?usp=sharing,)**  
-
 
 ### Week ? - 26.10.2021
 
