@@ -297,9 +297,9 @@
 
 ### Week ? - 05.11.2021
 
-**Title**: Human Trajectory Forecasting in Crowds: A Deep Learning Perspective
+**Title**: Human Trajectory Forecasting in Crowds: A Deep Learning Perspective  
 **Authors**: Parth Kothari, Sven Kreiss, Alexandre Alahi  
-**Journal**: IEEE Transactions on Intelligent Transportation Systems
-**Link**: https://arxiv.org/abs/2007.03639
+**Journal**: IEEE Transactions on Intelligent Transportation Systems  
+**Link**: https://arxiv.org/abs/2007.03639  
 **Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
 **[Presentation](https://docs.google.com/presentation/d/1fZJS68sbZUZDhj1jZ8lBO34PK3iA6Ox3FB9dSt4_U2o/edit?usp=sharing)**
