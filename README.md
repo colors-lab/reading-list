@@ -303,3 +303,13 @@
 **Link**: https://arxiv.org/abs/2007.03639  
 **Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
 **[Presentation](https://docs.google.com/presentation/d/1fZJS68sbZUZDhj1jZ8lBO34PK3iA6Ox3FB9dSt4_U2o/edit?usp=sharing)**
+https://docs.google.com/presentation/d/1zvN-OFasf8bkbZJ9agVIcPU6LbCGmAPZK3Muq0tUMXQ/edit?usp=sharing
+
+### Week ? - 24.03.2022
+
+**Title**: Interpretable Social Anchors for Human Trajectory Forecasting in Crowds
+**Authors**: Parth Kothari, Brian Sifringer, Alexandre Alahi
+**Conference**: CVPR 2021
+**Link**: https://arxiv.org/abs/2105.03136
+**Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)
+**[Presentation](https://docs.google.com/presentation/d/1zvN-OFasf8bkbZJ9agVIcPU6LbCGmAPZK3Muq0tUMXQ/edit?usp=sharing)**
