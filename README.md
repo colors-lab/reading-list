@@ -312,3 +312,15 @@
 **Link**: https://arxiv.org/abs/2105.03136  
 **Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
 **[Presentation](https://docs.google.com/presentation/d/1zvN-OFasf8bkbZJ9agVIcPU6LbCGmAPZK3Muq0tUMXQ/edit?usp=sharing)**  
+
+### Week ? - 01.12.2022
+
+**Title**: Adversarial Motion Priors for Stylized Physics-Based Character Control  
+**Authors**: Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa 
+**Journal**: ACM Transactions on Graphics, 2021
+**Link**: [https://arxiv.org/abs/2104.02180](https://arxiv.org/abs/2104.02180) 
+**Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347)  
+**[Presentation](https://docs.google.com/presentation/d/18WPN3kz1u_aI77AYIKbjXcKFlLJ1E1XUwQeB8SNyBRU/edit?usp=sharing)**  
+
+
+
