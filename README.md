@@ -439,16 +439,90 @@ Robots
 **Date:** 03.11.2022
 
 **Title:** MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis  
-**Authors:** 
+**Authors:** Yaqian Liang, Shanshan Zhao, Baosheng Yu, Jing Zhang, Fazhi He  
+**Presenter:** Ibrahim Ozcan  
+**Date:** 10.11.2022
 
-### Week ? - 01.12.2022
-
-**Title**: Adversarial Motion Priors for Stylized Physics-Based Character Control  
-**Authors**: Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa 
-**Journal**: ACM Transactions on Graphics, 2021
-**Link**: [https://arxiv.org/abs/2104.02180](https://arxiv.org/abs/2104.02180) 
-**Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347)  
+**Title:** Adversarial Motion Priors for Stylized Physics-Based Character Control  
+**Authors:** Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa 
+**Journal:** ACM Transactions on Graphics, 2021
+**Link:** [https://arxiv.org/abs/2104.02180](https://arxiv.org/abs/2104.02180) 
+**Presenter:** [Muhammet Hatipoglu](https://github.com/ocg2347)  
+**Date:** 01.12.2022  
 **[Presentation](https://docs.google.com/presentation/d/18WPN3kz1u_aI77AYIKbjXcKFlLJ1E1XUwQeB8SNyBRU/edit?usp=sharing)**  
 
+**Title:** Do As I Can, Not As I Say: Grounding Language in Robotic Affordances  
+**Authors:** Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng  
+**Presenter:** Gulsum Tuba Cibuk Girgin  
+**Date:** 22.12.2022
 
+## 2023
+---
 
+**Title:** RT-1: Robotics Transformer for Real-World Control at Scale  
+**Authors:** Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Joseph Dabis, Chelsea Finn, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Tomas Jackson, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Isabel Leal, Kuang-Huei Lee, Sergey Levine, Yao Lu, Utsav Malla, Deeksha Manjunath, Igor Mordatch, Ofir Nachum, Carolina Parada, Jodilyn Peralta, Emily Perez, Karl Pertsch, Jornell Quiambao, Kanishka Rao, Michael Ryoo, Grecia Salazar, Pannag Sanketi, Kevin Sayed, Jaspiar Singh, Sumedh Sontakke, Austin Stone, Clayton Tan, Huong Tran, Vincent Vanhoucke, Steve Vega, Quan Vuong, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, Brianna Zitkovich  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 05.01.2023
+
+**Title:** Dynamic Attention-Based CVAE-GAN for Pedestrian Trajectory Prediction  
+**Authors:** Zhou Zhou, Gang Huang, Zhaoxin Su, Yongfu Li, Wei Hua  
+**Presenter:** Yigit Yildirim  
+**Date:** 11.01.2023
+
+**Title:** On the Role of Structure in Manipulation Skill Learning  
+**Authors:** Eric Rosen, Ben Abbatematteo, Skye Thompson, Tuluhan Akbulut, George Konidaris  
+**Presenter:** Tuluhan Akbulut  
+**Date:** 15.02.2023
+
+**Title:** PaLM-E: An Embodied Multimodal Language Model  
+**Authors:** Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence  
+**Presenter:** Batuhan Celik  
+**Date:** 27.03.2023
+
+**Title:** Planning with Spatial-Temporal Abstraction from Point Clouds for Deformable Object Manipulation  
+**Authors:** Xingyu Lin, Carl Qi, Yunchu Zhang, Zhiao Huang, Katerina Fragkiadaki, Yunzhu Li, Chuang Gan, David Held  
+**Presenter:** Suzan Ece Ada  
+**Date:** 03.04.2023
+
+**Title:** Segment Anything  
+**Authors:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick  
+**Presenter:** Muhammet Hatipoglu  
+**Date:** 17.04.2023
+
+**Title:** Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset  
+**Authors:** Duc M. Nguyen, Mohammad Nazeri, Amirreza Payandeh, Aniket Datar, Xuesu Xiao  
+**Title:** Local Navigation Among Movable Obstacles with Deep Reinforcement Learning  
+**Authors:** Linghong Yao, Valerio Modugno, Yuanchang Liu, Danail Stoyanov, Dimitrios Kanoulas  
+**Title:** SOCIALGYM 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces  
+**Authors:** Zayne Sprague, Rohan Chandra, Jarrett Holtz, Joydeep Biswas  
+**Title:** Social robot navigation in human-robot interactive environments: Social force model approach  
+**Authors:** Hasan Kivrak, Hatice Kose  
+**Presenter:** Yigit Yildirim  
+**Date:** 24.04.2023
+
+**Title:** NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning  
+**Authors:** Weizheng Wang, Ruiqi Wang, Le Mao, Byung-Cheol Min  
+**Presenter:** Yigit Yildirim  
+**Date:** 08.05.2023
+
+**Title:** Voyager: An Open-Ended Embodied Agent with Large Language Models  
+**Authors:** Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar  
+**Title:** SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning  
+**Authors:** Yue Wu, Shrimai Prabhumoye, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 05.06.2023
+
+**Title:** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control  
+**Authors:** Google DeepMind  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 17.08.2023
+
+**Title:** Planning for Multi-Object Manipulation with Graph Neural Network Relational Classifiers  
+**Authors:** Yixuan Huang, Adam Conkey, Tucker Hermans  
+**Presenter:** Gulsum Tuba Cibuk Girgin  
+**Date:** 22.08.2023
+
+**Title:** The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision  
+**Authors:** Jiayuan Mao, Chuang Gan, Pushmeet Kohli, Joshua B. Tenenbaum, Jiajun Wu  
+**Presenter:** Batuhan Celik  
+**Date:** 04.10.2023
