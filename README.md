@@ -1,5 +1,8 @@
 # Reading list
 
+## 2019
+---
+
 **Title:** TossingBot: Learning to Throw Arbitrary Objects with Residual Physics  
 **Author:** Andy Zeng, Shuran Song, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser  
 **Conference:** RSS 2019  
@@ -56,20 +59,20 @@
 **Presenter:** [Mete Tuluhan Akbulut](https://github.com/mtuluhanakbulut)  
 **Date:** 18.10.2019
 
-**Title**: End-to-End Robotic Reinforcement Learning without Reward Engineering  
-**Author**: Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine  
-**Conference**: RSS 2019  
-**Link**: https://arxiv.org/abs/1904.07854  
-**Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**Title:** End-to-End Robotic Reinforcement Learning without Reward Engineering  
+**Author:** Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine  
+**Conference:** RSS 2019  
+**Link:** https://arxiv.org/abs/1904.07854  
+**Presenter:** [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
 **Date:** 28.10.2019  
 **[Presentation](slides/singh2019endtoend.pdf)**
 
-**Title**: Belief Regulated Dual Propagation Nets for Learning Action Effects on Articulated Multi-Part Objects  
-**Author**: Ahmet E. Tekden, Aykut Erdem, Erkut Erdem, Mert Imre, M. Yunus Seker, Emre Ugur  
-**Conference**: ICRA 2020  
-**Link**: https://arxiv.org/abs/1909.03785  
-**Project page**: https://fzaero.github.io/BRDPN/  
-**Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
+**Title:** Belief Regulated Dual Propagation Nets for Learning Action Effects on Articulated Multi-Part Objects  
+**Author:** Ahmet E. Tekden, Aykut Erdem, Erkut Erdem, Mert Imre, M. Yunus Seker, Emre Ugur  
+**Conference:** ICRA 2020  
+**Link:** https://arxiv.org/abs/1909.03785  
+**Project page:** https://fzaero.github.io/BRDPN/  
+**Presenter:** [Ahmet Tekden](https://github.com/fzaero)  
 **Date:** 22.11.2019  
 **[Presentation](slides/tekden2019belief.pdf)**
 
@@ -90,6 +93,9 @@
 **Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
 **Date:** 06.12.2019  
 **[Presentation](slides/toussaint2018differentiable.pdf)**
+
+## 2020
+---
 
 **Title**: Adaptive Conditional Neural Movement Primitives via Representation Sharing Between Supervised and Reinforcement Learning  
 **Author**: M.Tuluhan Akbulut, M.Yunus Seker, Ahmet E. Tekden, Yukie Nagai, Erhan Oztop, Emre Ugur  
@@ -216,75 +222,137 @@
 **Title:** Ilker Birbil's talk
 **Date:** 19.11.2020
 
-**Title:** Deep  Affordance  Foresight: Planning  Through  What  Can  Be  Done  in the  Future  
-**Authors:** Danfei Xu, Ajay Mandlekar, Roberto Martín-Martín, Yuke Zhu, Silvio Savarese, Li Fei-Fei
-**Date:** December 2020
+## 2021
+---
 
 **Title:** Form2Fit: Learning Shape Priors for Generalizable Assembly from Disassembly  
 **Authors:** Kevin Zakka, Andy Zeng, Johnny Lee, Shuran Song  
+**Presenter:** Ibrahim Ozcan  
 **Date:**  22.02.2021
 
-### Week 59 - 14.04.2021
+**Title:** Learning Robotic Assembly from CAD  
+**Authors:** Garrett Thomas, Melissa Chien, Aviv Tamar, Juan Aparicio Ojea, Pieter Abbeel  
+**Presenter:** Ibrahim Ozcan  
+**Date:** 25.02.2021
 
-**Title**: A Review of Physics Simulators for Robotic Applications  
-**Authors**: Jack Collins, Shelvin Chand, Anthony Vanderkop, David Howard  
-**Conference**: IEEE Access  
-**Link**: https://ieeexplore.ieee.org/document/9386154  
-**Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**Title:** Affordances in General  
+**Papers:**
+- To afford or not to afford: A new formalization of affordances towards
+affordance-based robot control
+- Traversability: A Case Study for Learning and Perceiving Affordances in
+Robots
+- Affordance learning from range data for multi-step planning
+
+**Presenter:** Alara Dirik
+**Date:** 01.03.2021
+
+**Title:** Neural Logic Machines  
+**Authors:** Honghua Dong, Jiayuan Mao, Tian Lin, Chong Wang, Lihong Li, Denny Zhou  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 24.03.2021
+
+**Title:** Classical Planning in Deep Latent Space: Bridging the Subsymbolic-Symbolic Boundary  
+**Authors:** Masataro Asai, Alex Fukunaga  
+**Presenter:** Ece Ada  
+**Date:** 31.03.2021
+
+**Title:** A Review of Physics Simulators for Robotic Applications  
+**Authors:** Jack Collins, Shelvin Chand, Anthony Vanderkop, David Howard  
+**Conference:** IEEE Access  
+**Link:** https://ieeexplore.ieee.org/document/9386154  
+**Presenter:** [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**Date:** 14.04.2021  
 **[Presentation](https://docs.google.com/presentation/d/1QtX4afKKJXnHidjRL4oKYy3vjH7qxdbi4Cove4Am_mY/edit?usp=sharing)**
 
-### Week ? - 12.05.2021
+**Title:** Learning Gait Models With Varying Walking Speeds  
+**Authors:** Chaobin Zou, Rui Huang, Hong Cheng, Jing Qiu  
+**Presenter:** Selcuk Albayrak  
+**Date:** 21.04.2021
+
+**Title:** Transporter Networks: Rearranging the Visual World for Robotic Manipulation  
+**Authors:** Andy Zeng, Pete Florence, Jonathan Tompson, Stefan Welker, Jonathan Chien, Maria Attarian, Travis Armstrong, Ivan Krasin, Dan Duong, Ayzaan Wahid, Vikas Sindhwani, Johnny Lee  
+**Presenter:** Alara Dirik  
+**Date:** 05.05.2021
 
 **Title**: KETO: Learning Keypoint Representations for Tool Manipulation  
 **Authors**: Zengyi Qin, Kuan Fang, Yuke Zhu, Li Fei-Fei and Silvio Savarese  
 **Conference**: ICRA 2020   
 **Link**: https://arxiv.org/pdf/1910.11977  
-**Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347) 
+**Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347)  
+**Date:** 12.05.2021
 
-### Week ? - 07.07.2021
+**Title:** Modeling 3D Shapes by Reinforcement Learning
+**Authors:** Cheng Lin, Tingxiang Fan, Wenping Wang, Matthias Nießner  
+**Presenter:** Ibrahim Ozcan  
+**Date:** 26.05.2021
+
+**Title:** Deep  Affordance  Foresight: Planning  Through  What  Can  Be  Done  in the  Future  
+**Authors:** Danfei Xu, Ajay Mandlekar, Roberto Martín-Martín, Yuke Zhu, Silvio Savarese, Li Fei-Fei  
+**Presenter:** Ahmet Tekden  
+**Date:** 16.06.2021
 
 **Title**: Adversarial Motion Priors for Stylized Physics-Based Character Control  
 **Authors**: Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa  
 **Journal**: ACM TOG  
 **Link**: https://arxiv.org/pdf/2104.02180.pdf  
 **Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
+**Date:** 07.07.2021  
 **[Presentation](https://docs.google.com/presentation/d/1v73_08pkyVH-CgXrGGhbz_DuZ5qKnqaGpu51x1y5R7Q/edit#slide=id.ge2a7b84e5b_0_104)**
 
-### Week ? - 29.09.2021
+**Title:** Sim-to-Real Learning of All Common Bipedal Gaits via Periodic Reward Composition  
+**Authors:** Jonah Siekmann, Yesh Godse, Alan Fern, Jonathan Hurst  
+**Presenter:** Suzan Ece Ada  
+**Date:** 11.08.2021
 
 **Title**: Discovering Generalizable Skills via Automated Generation of Diverse Tasks  
 **Authors**: Kuan Fang, Yuke Zhu, Silvio Savarese, Fei-Fei Li  
 **Conference**: RSS 2021  
 **Link**: http://www.roboticsproceedings.org/rss17/p010.pdf  
 **Presenter**: [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**Date:** 29.09.2021  
 **[Presentation](https://docs.google.com/presentation/d/1Xjj2KiswQyDNt9--FUDEwu6skYddGrrSKDkWhP-8iII/edit?usp=sharing)**
-
-### Week ? - 15.10.2021
 
 **Title**: Imagination-enabled Robot Perception 
 **Authors**: Patrick Mania, Franklin Kenghagho Kenfack, Michael Neumann, Michael Beetz  
 **Conference**: IROS 2021  
 **Link**: https://arxiv.org/pdf/2011.11397  
 **Presenter**: [Muhammet Hatipoglu](https://github.com/ocg2347)  
-**[Presentation](https://docs.google.com/presentation/d/1XP2Qzi0_bXddY9lv0QfjufCIlZAtnniS/edit?usp=sharing,)**  
+**Date:** 15.10.2021
+**[Presentation](https://docs.google.com/presentation/d/1XP2Qzi0_bXddY9lv0QfjufCIlZAtnniS/edit?usp=sharing,)**
 
-### Week ? - 26.10.2021
+**Title:** Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects  
+**Authors:** Tasbolat Taunyazov, Luar Shui Song, Eugene Lim, Hian Hian See, David Lee, Benjamin C.K. Tee, Harold Soh  
+**Presenter:** Ibrahim Ozcan  
+**Date:** 22.10.2021
 
 **Title**: Going Beyond Images: 3D-Aware Representation Learning for Visuomotor Control    
 **Authors**: Yunzhu Li, Shuang Li, Vincent Sitzmann, Pulkit Agrawal, Antonio Torralba    
 **Conference**: CoRL 2021   
 **Link**: https://arxiv.org/pdf/2107.04004.pdf   
-**Presenter**: [M. Yunus Seker](https://myunusseker.github.io)   
+**Presenter**: [M. Yunus Seker](https://myunusseker.github.io)  
+**Date:** 26.10.2021  
 **[Presentation](https://docs.google.com/presentation/d/1AxB16qXbspQw_nFpWM1zatgucZ75U6GaN8De5lz2cgI/edit?usp=sharing)**
-
-### Week ? - 05.11.2021
 
 **Title**: Human Trajectory Forecasting in Crowds: A Deep Learning Perspective  
 **Authors**: Parth Kothari, Sven Kreiss, Alexandre Alahi  
 **Journal**: IEEE Transactions on Intelligent Transportation Systems  
 **Link**: https://arxiv.org/abs/2007.03639  
 **Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
+**Date:** 05.11.2021  
 **[Presentation](https://docs.google.com/presentation/d/1fZJS68sbZUZDhj1jZ8lBO34PK3iA6Ox3FB9dSt4_U2o/edit?usp=sharing)**
+
+**Title:** From Machine Learning to Robotics: Challenges and Opportunities for Embodied Intelligence
+**Authors:** Nicholas Roy, Ingmar Posner, Tim Barfoot, Philippe Beaudoin, Yoshua Bengio, Jeannette Bohg, Oliver Brock, Isabelle Depatie, Dieter Fox, Dan Koditschek, Tomas Lozano-Perez, Vikash Mansinghka, Christopher Pal, Blake Richards, Dorsa Sadigh, Stefan Schaal, Gaurav Sukhatme, Denis Therien, Marc Toussaint, Michiel Van de Panne  
+**Presenter:** Suzan Ece Ada  
+**Date:** 12.11.2021
+
+**Title:** DeepProbLog: Neural Probabilistic Logic Programming  
+**Authors:** Robin Manhaeve, Sebastijan Dumančić, Angelika Kimmig, Thomas Demeester, Luc De Raedt  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 10.12.2021
+
+## 2022
+---
 
 ### Week ? - 24.03.2022
 
