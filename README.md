@@ -354,14 +354,92 @@ Robots
 ## 2022
 ---
 
-### Week ? - 24.03.2022
+**Title:** Specifying and achieving goals in open uncertain robot-manipulation domains  
+**Authors:** Leslie Pack Kaelbling, Alex LaGrassa, Tomás Lozano-Pérez  
+**Presenter:** Utku Bozdogan  
+**Date:** 07.01.2022
 
-**Title**: Interpretable Social Anchors for Human Trajectory Forecasting in Crowds  
-**Authors**: Parth Kothari, Brian Sifringer, Alexandre Alahi  
-**Conference**: CVPR 2021  
-**Link**: https://arxiv.org/abs/2105.03136  
-**Presenter**: [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
+**Title:** Controlled Cue Generation for Play Scripts  
+**Authors:** Alara Dirik, Hilal Donmez, Pinar Yanardag  
+**Presenter:** Alara Dirik  
+**Date:** 14.01.2022
+
+**Title:** Workshop and presentation on foundational models
+**Presenter:** Alara Dirik
+**Date:** 04.02.2022
+
+**Title:** ACNMP: Flexible Skill Formation with Learning from Demonstration and Reinforcement Learning via Representation Sharing  
+**Authors:** M.Tuluhan Akbulut, Erhan Oztop, M.Yunus Seker, Honghu Xue, Ahmet E. Tekden, Emre Ugur  
+**Title:** Reward Conditioned Neural Movement Primitives for Population Based Variational Policy Optimization  
+**Authors:** M.Tuluhan Akbulut, Utku Bozdogan, Ahmet Tekden, Emre Ugur  
+**Presenter:** Muhammet Hatipoglu
+**Date:** 11.02.2022
+
+**Title:** Learning Mesh-Based Simulation with Graph Networks  
+**Authors:** Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, Peter W. Battaglia  
+**Presenter:** Ibrahim Ozcan  
+**Date:** 18.02.2022
+
+**Title:** Human-level concept learning through probabilistic program induction  
+**Authors:** Brenden M. Lake, Ruslan Salakhutdinov, Joshua B. Tenenbaum  
+**Presenter:** Alper Ahmetoglu
+**Date:** 17.03.2022
+
+**Title:** Interpretable Social Anchors for Human Trajectory Forecasting in Crowds  
+**Authors:** Parth Kothari, Brian Sifringer, Alexandre Alahi  
+**Conference:** CVPR 2021  
+**Link:** https://arxiv.org/abs/2105.03136  
+**Presenter:** [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
+**Date:** 24.03.2022  
 **[Presentation](https://docs.google.com/presentation/d/1zvN-OFasf8bkbZJ9agVIcPU6LbCGmAPZK3Muq0tUMXQ/edit?usp=sharing)**  
+
+**Title:** CoMPS: Continual Meta Policy Search  
+**Authors:** Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine  
+**Presenter:** Suzan Ece Ada  
+**Date:** 31.03.2022
+
+**Title:** Do As I Can, Not As I Say: Grounding Language in Robotic Affordances  
+**Authors:** Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng  
+**Presenter:** Alara Dirik  
+**Date:** 14.04.2022
+
+**Title:** O2O-Afford: Annotation-Free Large-Scale Object-Object Affordance Learning  
+**Authors:** Kaichun Mo, Yuzhe Qin, Fanbo Xiang, Hao Su, Leonidas Guibas  
+**Presenter:** Utku Bozdogan  
+**Date:** 21.04.2022
+
+**Title:** Learning Rope Manipulation Policies Using Dense Object Descriptors Trained on Synthetic Depth Data  
+**Authors:** Priya Sundaresan, Jennifer Grannen, Brijen Thananjeyan, Ashwin Balakrishna, Michael Laskey, Kevin Stone, Joseph E. Gonzalez, Ken Goldberg  
+**Presenter:** Muhammet Hatipoglu  
+**Date:** 12.05.2022
+
+**Title:** Adaptive Shared Control with Human Intention Estimation for Human Agent Collaboration  
+**Authors:** Negin Amirshirzad, Emre Ugur, Ozkan Bebek, Erhan Oztop  
+**Presenter:** Negin Amirshirzad  
+**Date:** 03.06.2022
+
+**Title:** Intrinsic Rewards in Human Curiosity-Driven Exploration: An Empirical Study  
+**Authors:** Alexandr Ten, Jacqueline Gottlieb, Pierre-Yves Oudeyer  
+**Presenter:** Gulsum Tuba Cibuk Girgin  
+**Date:** 24.06.2022
+
+**Title:** DayDreamer: World Models for Physical Robot Learning  
+**Authors:** Philipp Wu, Alejandro Escontrela, Danijar Hafner, Ken Goldberg, Pieter Abbeel  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 08.07.2022
+
+**Title:** Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning  
+**Authors:** Jan Achterhold, Markus Krimmel, Joerg Stueckler  
+**Presenter:** Alper Ahmetoglu
+**Date:** 13.10.2022
+
+**Title:** LEAGUE: Guided Skill Learning and Abstraction for Long-Horizon Manipulation  
+**Authors:** Shuo Cheng, Danfei Xu  
+**Presenter:** Suzan Ece Ada  
+**Date:** 03.11.2022
+
+**Title:** MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis  
+**Authors:** 
 
 ### Week ? - 01.12.2022
 
