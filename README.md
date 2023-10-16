@@ -528,7 +528,7 @@ Robots
 
 **Title:** The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision  
 **Authors:** Jiayuan Mao, Chuang Gan, Pushmeet Kohli, Joshua B. Tenenbaum, Jiajun Wu  
-**Presenter:** Batuhan Celik 
-**[Paper](https://arxiv.org/abs/1904.12584)** 
-**[Presentation](https://docs.google.com/presentation/d/1ZOPudI-BjRbqo8X0x2iBn-lBsgOY-uvDtJ2gq5goo6g/edit?usp=sharing)**  
+**Presenter:** Batuhan Celik  
+**[Paper](https://arxiv.org/abs/1904.12584)**  
+**[Presentation](https://docs.google.com/presentation/d/1ZOPudI-BjRbqo8X0x2iBn-lBsgOY-uvDtJ2gq5goo6g/edit?usp=sharing)**    
 **Date:** 04.10.2023
