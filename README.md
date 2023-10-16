@@ -477,9 +477,9 @@ Robots
 **Title:** PaLM-E: An Embodied Multimodal Language Model  
 **Authors:** Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence  
 **Presenter:** Batuhan Celik  
-**[Project Page](https://palm-e.github.io/)** 
-**[Paper](https://palm-e.github.io/assets/palm-e.pdf)** 
-**[Presentation](https://docs.google.com/presentation/d/1dAP3PDUKfRNCWC9-H4c5y0bCXlgfKCJmxHVYdSIzABY/edit?usp=sharing)** 
+**[Project Page](https://palm-e.github.io/)**  
+**[Paper](https://palm-e.github.io/assets/palm-e.pdf)**  
+**[Presentation](https://docs.google.com/presentation/d/1dAP3PDUKfRNCWC9-H4c5y0bCXlgfKCJmxHVYdSIzABY/edit?usp=sharing)**  
 **Date:** 27.03.2023
 
 **Title:** Planning with Spatial-Temporal Abstraction from Point Clouds for Deformable Object Manipulation  
@@ -496,7 +496,7 @@ Robots
 **Authors:** Duc M. Nguyen, Mohammad Nazeri, Amirreza Payandeh, Aniket Datar, Xuesu Xiao  
 **Title:** Local Navigation Among Movable Obstacles with Deep Reinforcement Learning  
 **Authors:** Linghong Yao, Valerio Modugno, Yuanchang Liu, Danail Stoyanov, Dimitrios Kanoulas 
- 
+
 **Title:** SOCIALGYM 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces  
 **Authors:** Zayne Sprague, Rohan Chandra, Jarrett Holtz, Joydeep Biswas  
 **Title:** Social robot navigation in human-robot interactive environments: Social force model approach  
