@@ -1,98 +1,205 @@
 # Reading list
 
-## 2019
+## 2024
 ---
 
-**Title:** TossingBot: Learning to Throw Arbitrary Objects with Residual Physics  
-**Author:** Andy Zeng, Shuran Song, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser  
-**Conference:** RSS 2019  
-**Misc:** Best Systems Paper Award  
-**Link:** https://arxiv.org/abs/1903.11239  
-**Project page:** https://tossingbot.cs.princeton.edu/  
-**Presenter:** [Ahmet Tekden](https://github.com/fzaero)  
-**Date**: 29.08.2019  
-**[Presentation](slides/zeng2019tossingbot.pdf)**
+**Title:** To be added
+**Authors:** To be added
+**Presenter:** Fatih Dogangun
+**Date:** 03.12.2024
 
-**Title:** Commonsense Reasoning and Knowledge Acquisition to Guide Deep Learning on Robots  
-**Author:** Tiago Mota, Mohan Sridharan  
-**Conference:** RSS 2019  
-**Misc:** Best Paper Nominee  
-**Link:** www.roboticsproceedings.org/rss15/p77.html  
-**Presenter:** [Alper Ahmetoğlu](https://github.com/alper111)  
-**Date:** 06.09.2019  
-**[Presentation](slides/mota2019commonsense.pdf)**
+**Title:** To be added
+**Authors:** To be added
+**Presenter:** Deniz Bilge Akkoc, Ahmet Fırat Gamsiz
+**Date:** 03.12.2024
 
-**Title:** DensePhysNet: Learning Dense Physical Object Representations Via Multi-Step Dynamic Interactions  
-**Author:** Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua Tenenbaum, Shuran Song  
-**Conference:** RSS 2019  
-**Link:** www.roboticsproceedings.org/rss15/p46.html  
-**Presenter:** Ece Ada  
-**Date:** 12.09.2019
+**Title:** [Long Horizon Inverse Task Planning With Vision Language Action Models](https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p)
+**Presenter:** Ahmet Firat Gamsiz, Deniz Bilge Akkoc
+**Date:** ???
 
-**Title:** Closing the Sim-to-Real Loop: Adapting Simulation Randomization with Real World Experience  
-**Author:** Yevgen Chebotar, Ankur Handa, Viktor Makoviychuk, Miles Macklin, Jan Issac, Nathan Ratliff, Dieter Fox  
-**Conference:** ICRA 2019  
-**Misc:** Best Student Paper Finalist  
-**Link:** https://arxiv.org/abs/1810.05687  
-**Presenter:** [Melisa Şener](https://github.com/melsener)  
-**Date:** 27.09.2019  
-**[Presentation](slides/chebotar2019closing.pdf)**
 
-**Title:** Self-attention in general  
-**Link:** https://arxiv.org/abs/1706.03762  
-**Presenter:** [Alper Ahmetoğlu](https://github.com/alper111)
-**Date:** 04.10.2019
+## 2023
+---
 
-**Title:** Learning Synergies between Pushing and Grasping with Self-supervised  
-**Author:** Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser  
-**Conference:** IROS 2018  
-**Misc:** Best Cognitive Robotics Paper Award Finalist  
-**Link:** http://vpg.cs.princeton.edu/, https://arxiv.org/abs/1803.09956  
-**Presenter:** Serkan Buğur  
-**Date:** 11.10.2019  
-**[Presentation](slides/zeng2018learning.pdf)**
+**Title:** Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping
+**Authors:** Adam Rashid*, Satvik Sharma*, Chung Min Kim, Justin Kerr, Lawrence Yunliang Chen
+Angjoo Kanazawa, Ken Goldberg
+**Presenter:** Ahmet Firat Gamsiz
+**Date:** lost to time
 
-**Title:** Learning Contact-Rich Manipulation Skills with Guided Policy Search  
-**Author:** Sergey Levine, Nolan Wagener, Pieter Abbeel  
-**Conference:** ICRA 2015  
-**Link:** https://arxiv.org/abs/1501.05611  
-**Presenter:** [Mete Tuluhan Akbulut](https://github.com/mtuluhanakbulut)  
-**Date:** 18.10.2019
+**Title:** The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision  
+**Authors:** Jiayuan Mao, Chuang Gan, Pushmeet Kohli, Joshua B. Tenenbaum, Jiajun Wu  
+**Presenter:** Batuhan Celik  
+**[Paper](https://arxiv.org/abs/1904.12584)**  
+**[Presentation](https://docs.google.com/presentation/d/1ZOPudI-BjRbqo8X0x2iBn-lBsgOY-uvDtJ2gq5goo6g/edit?usp=sharing)**    
+**Date:** 04.10.2023
 
-**Title:** End-to-End Robotic Reinforcement Learning without Reward Engineering  
-**Author:** Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine  
-**Conference:** RSS 2019  
-**Link:** https://arxiv.org/abs/1904.07854  
-**Presenter:** [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
-**Date:** 28.10.2019  
-**[Presentation](slides/singh2019endtoend.pdf)**
+**Title:** Planning for Multi-Object Manipulation with Graph Neural Network Relational Classifiers  
+**Authors:** Yixuan Huang, Adam Conkey, Tucker Hermans  
+**Presenter:** Gulsum Tuba Cibuk Girgin  
+**Date:** 22.08.2023
 
-**Title:** Belief Regulated Dual Propagation Nets for Learning Action Effects on Articulated Multi-Part Objects  
-**Author:** Ahmet E. Tekden, Aykut Erdem, Erkut Erdem, Mert Imre, M. Yunus Seker, Emre Ugur  
-**Conference:** ICRA 2020  
-**Link:** https://arxiv.org/abs/1909.03785  
-**Project page:** https://fzaero.github.io/BRDPN/  
-**Presenter:** [Ahmet Tekden](https://github.com/fzaero)  
-**Date:** 22.11.2019  
-**[Presentation](slides/tekden2019belief.pdf)**
+**Title:** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control  
+**Authors:** Google DeepMind  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 17.08.2023
 
-**Title**: Learning to Manipulate Object Collections Using Grounded State Representations
-**Author**: Matthew Wilson, Tucker Hermans  
-**Conference**: CORL 2019  
-**Misc**: Best System Paper Award  
-**Link**: https://matwilso.github.io/projects/object_collections, https://arxiv.org/abs/1909.07876  
-**Presenter**: [M. Yunus Seker](https://myunusseker.github.io)  
-**Date:** 29.11.2019  
-**[Presentation](slides/wilson2019learning.pdf)**
+**Title:** Voyager: An Open-Ended Embodied Agent with Large Language Models  
+**Authors:** Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar  
+**Title:** SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning  
+**Authors:** Yue Wu, Shrimai Prabhumoye, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 05.06.2023
 
-**Title**: Differentiable Physics and Stable Modes for Tool Use and Manipulation Planning  
-**Author**: Marc Toussaint, Kelsey R Allen, Kevin A Smith, Joshua B Tenenbaum  
-**Link**: http://www.roboticsproceedings.org/rss14/p44.pdf  
-**Conference**: RSS 2018  
-**Misc**: Best Paper Award  
-**Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
-**Date:** 06.12.2019  
-**[Presentation](slides/toussaint2018differentiable.pdf)**
+Title: NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning
+Authors: Weizheng Wang, Ruiqi Wang, Le Mao, Byung-Cheol Min
+Presenter: Yigit Yildirim
+Date: 08.05.2023
+
+Title: SOCIALGYM 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces
+Authors: Zayne Sprague, Rohan Chandra, Jarrett Holtz, Joydeep Biswas
+Title: Social robot navigation in human-robot interactive environments: Social force model approach
+Authors: Hasan Kivrak, Hatice Kose
+Presenter: Yigit Yildirim
+Date: 24.04.2023
+
+Title: Segment Anything
+Authors: Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick
+Presenter: Muhammet Hatipoglu
+Date: 17.04.2023
+
+Title: Planning with Spatial-Temporal Abstraction from Point Clouds for Deformable Object Manipulation
+Authors: Xingyu Lin, Carl Qi, Yunchu Zhang, Zhiao Huang, Katerina Fragkiadaki, Yunzhu Li, Chuang Gan, David Held
+Presenter: Suzan Ece Ada
+Date: 03.04.2023
+
+Title: PaLM-E: An Embodied Multimodal Language Model
+Authors: Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence
+Presenter: Batuhan Celik
+Project Page
+Paper
+Presentation
+Date: 27.03.2023
+
+Title: On the Role of Structure in Manipulation Skill Learning
+Authors: Eric Rosen, Ben Abbatematteo, Skye Thompson, Tuluhan Akbulut, George Konidaris
+Presenter: Tuluhan Akbulut
+Date: 15.02.2023
+
+Title: Dynamic Attention-Based CVAE-GAN for Pedestrian Trajectory Prediction
+Authors: Zhou Zhou, Gang Huang, Zhaoxin Su, Yongfu Li, Wei Hua
+Presenter: Yigit Yildirim
+Date: 11.01.2023
+
+Title: RT-1: Robotics Transformer for Real-World Control at Scale
+Authors: Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Joseph Dabis, Chelsea Finn, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Tomas Jackson, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Isabel Leal, Kuang-Huei Lee, Sergey Levine, Yao Lu, Utsav Malla, Deeksha Manjunath, Igor Mordatch, Ofir Nachum, Carolina Parada, Jodilyn Peralta, Emily Perez, Karl Pertsch, Jornell Quiambao, Kanishka Rao, Michael Ryoo, Grecia Salazar, Pannag Sanketi, Kevin Sayed, Jaspiar Singh, Sumedh Sontakke, Austin Stone, Clayton Tan, Huong Tran, Vincent Vanhoucke, Steve Vega, Quan Vuong, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, Brianna Zitkovich
+Presenter: Alper Ahmetoglu
+Date: 05.01.2023
+
+## 2022
+---
+
+**Title:** Do As I Can, Not As I Say: Grounding Language in Robotic Affordances  
+**Authors:** Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng  
+**Presenter:** Gulsum Tuba Cibuk Girgin  
+**Date:** 22.12.2022
+
+**Title:** Adversarial Motion Priors for Stylized Physics-Based Character Control  
+**Authors:** Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa 
+**Journal:** ACM Transactions on Graphics, 2021
+**Link:** [https://arxiv.org/abs/2104.02180](https://arxiv.org/abs/2104.02180) 
+**Presenter:** [Muhammet Hatipoglu](https://github.com/ocg2347)  
+**Date:** 01.12.2022  
+**[Presentation](https://docs.google.com/presentation/d/18WPN3kz1u_aI77AYIKbjXcKFlLJ1E1XUwQeB8SNyBRU/edit?usp=sharing)**  
+
+**Title:** MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis  
+**Authors:** Yaqian Liang, Shanshan Zhao, Baosheng Yu, Jing Zhang, Fazhi He  
+**Presenter:** Ibrahim Ozcan  
+**Date:** 10.11.2022
+
+**Title:** LEAGUE: Guided Skill Learning and Abstraction for Long-Horizon Manipulation  
+**Authors:** Shuo Cheng, Danfei Xu  
+**Presenter:** Suzan Ece Ada  
+**Date:** 03.11.2022
+
+**Title:** Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning  
+**Authors:** Jan Achterhold, Markus Krimmel, Joerg Stueckler  
+**Presenter:** Alper Ahmetoglu
+**Date:** 13.10.2022
+
+**Title:** DayDreamer: World Models for Physical Robot Learning  
+**Authors:** Philipp Wu, Alejandro Escontrela, Danijar Hafner, Ken Goldberg, Pieter Abbeel  
+**Presenter:** Alper Ahmetoglu  
+**Date:** 08.07.2022
+
+**Title:** Intrinsic Rewards in Human Curiosity-Driven Exploration: An Empirical Study  
+**Authors:** Alexandr Ten, Jacqueline Gottlieb, Pierre-Yves Oudeyer  
+**Presenter:** Gulsum Tuba Cibuk Girgin  
+**Date:** 24.06.2022
+
+**Title:** Adaptive Shared Control with Human Intention Estimation for Human Agent Collaboration  
+**Authors:** Negin Amirshirzad, Emre Ugur, Ozkan Bebek, Erhan Oztop  
+**Presenter:** Negin Amirshirzad  
+**Date:** 03.06.2022
+
+**Title:** Learning Rope Manipulation Policies Using Dense Object Descriptors Trained on Synthetic Depth Data  
+**Authors:** Priya Sundaresan, Jennifer Grannen, Brijen Thananjeyan, Ashwin Balakrishna, Michael Laskey, Kevin Stone, Joseph E. Gonzalez, Ken Goldberg  
+**Presenter:** Muhammet Hatipoglu  
+**Date:** 12.05.2022
+
+**Title:** O2O-Afford: Annotation-Free Large-Scale Object-Object Affordance Learning  
+**Authors:** Kaichun Mo, Yuzhe Qin, Fanbo Xiang, Hao Su, Leonidas Guibas  
+**Presenter:** Utku Bozdogan  
+**Date:** 21.04.2022
+
+**Title:** Do As I Can, Not As I Say: Grounding Language in Robotic Affordances  
+**Authors:** Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng  
+**Presenter:** Alara Dirik  
+**Date:** 14.04.2022
+
+**Title:** CoMPS: Continual Meta Policy Search  
+**Authors:** Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine  
+**Presenter:** Suzan Ece Ada  
+**Date:** 31.03.2022
+
+**Title:** Interpretable Social Anchors for Human Trajectory Forecasting in Crowds  
+**Authors:** Parth Kothari, Brian Sifringer, Alexandre Alahi  
+**Conference:** CVPR 2021  
+**Link:** https://arxiv.org/abs/2105.03136  
+**Presenter:** [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
+**Date:** 24.03.2022  
+**[Presentation](https://docs.google.com/presentation/d/1zvN-OFasf8bkbZJ9agVIcPU6LbCGmAPZK3Muq0tUMXQ/edit?usp=sharing)** 
+
+**Title:** Human-level concept learning through probabilistic program induction  
+**Authors:** Brenden M. Lake, Ruslan Salakhutdinov, Joshua B. Tenenbaum  
+**Presenter:** Alper Ahmetoglu
+**Date:** 17.03.2022
+
+**Title:** Learning Mesh-Based Simulation with Graph Networks  
+**Authors:** Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, Peter W. Battaglia  
+**Presenter:** Ibrahim Ozcan  
+**Date:** 18.02.2022
+
+**Title:** ACNMP: Flexible Skill Formation with Learning from Demonstration and Reinforcement Learning via Representation Sharing  
+**Authors:** M.Tuluhan Akbulut, Erhan Oztop, M.Yunus Seker, Honghu Xue, Ahmet E. Tekden, Emre Ugur  
+**Title:** Reward Conditioned Neural Movement Primitives for Population Based Variational Policy Optimization  
+**Authors:** M.Tuluhan Akbulut, Utku Bozdogan, Ahmet Tekden, Emre Ugur  
+**Presenter:** Muhammet Hatipoglu
+**Date:** 11.02.2022
+
+**Title:** Workshop and presentation on foundational models
+**Presenter:** Alara Dirik
+**Date:** 04.02.2022
+
+**Title:** Controlled Cue Generation for Play Scripts  
+**Authors:** Alara Dirik, Hilal Donmez, Pinar Yanardag  
+**Presenter:** Alara Dirik  
+**Date:** 14.01.2022
+
+**Title:** Specifying and achieving goals in open uncertain robot-manipulation domains  
+**Authors:** Leslie Pack Kaelbling, Alex LaGrassa, Tomás Lozano-Pérez  
+**Presenter:** Utku Bozdogan  
+**Date:** 07.01.2022
 
 ## 2020
 ---
@@ -351,184 +458,98 @@ Robots
 **Presenter:** Alper Ahmetoglu  
 **Date:** 10.12.2021
 
-## 2022
+## 2019
 ---
 
-**Title:** Specifying and achieving goals in open uncertain robot-manipulation domains  
-**Authors:** Leslie Pack Kaelbling, Alex LaGrassa, Tomás Lozano-Pérez  
-**Presenter:** Utku Bozdogan  
-**Date:** 07.01.2022
+**Title:** TossingBot: Learning to Throw Arbitrary Objects with Residual Physics  
+**Author:** Andy Zeng, Shuran Song, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser  
+**Conference:** RSS 2019  
+**Misc:** Best Systems Paper Award  
+**Link:** https://arxiv.org/abs/1903.11239  
+**Project page:** https://tossingbot.cs.princeton.edu/  
+**Presenter:** [Ahmet Tekden](https://github.com/fzaero)  
+**Date**: 29.08.2019  
+**[Presentation](slides/zeng2019tossingbot.pdf)**
 
-**Title:** Controlled Cue Generation for Play Scripts  
-**Authors:** Alara Dirik, Hilal Donmez, Pinar Yanardag  
-**Presenter:** Alara Dirik  
-**Date:** 14.01.2022
+**Title:** Commonsense Reasoning and Knowledge Acquisition to Guide Deep Learning on Robots  
+**Author:** Tiago Mota, Mohan Sridharan  
+**Conference:** RSS 2019  
+**Misc:** Best Paper Nominee  
+**Link:** www.roboticsproceedings.org/rss15/p77.html  
+**Presenter:** [Alper Ahmetoğlu](https://github.com/alper111)  
+**Date:** 06.09.2019  
+**[Presentation](slides/mota2019commonsense.pdf)**
 
-**Title:** Workshop and presentation on foundational models
-**Presenter:** Alara Dirik
-**Date:** 04.02.2022
+**Title:** DensePhysNet: Learning Dense Physical Object Representations Via Multi-Step Dynamic Interactions  
+**Author:** Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua Tenenbaum, Shuran Song  
+**Conference:** RSS 2019  
+**Link:** www.roboticsproceedings.org/rss15/p46.html  
+**Presenter:** Ece Ada  
+**Date:** 12.09.2019
 
-**Title:** ACNMP: Flexible Skill Formation with Learning from Demonstration and Reinforcement Learning via Representation Sharing  
-**Authors:** M.Tuluhan Akbulut, Erhan Oztop, M.Yunus Seker, Honghu Xue, Ahmet E. Tekden, Emre Ugur  
-**Title:** Reward Conditioned Neural Movement Primitives for Population Based Variational Policy Optimization  
-**Authors:** M.Tuluhan Akbulut, Utku Bozdogan, Ahmet Tekden, Emre Ugur  
-**Presenter:** Muhammet Hatipoglu
-**Date:** 11.02.2022
+**Title:** Closing the Sim-to-Real Loop: Adapting Simulation Randomization with Real World Experience  
+**Author:** Yevgen Chebotar, Ankur Handa, Viktor Makoviychuk, Miles Macklin, Jan Issac, Nathan Ratliff, Dieter Fox  
+**Conference:** ICRA 2019  
+**Misc:** Best Student Paper Finalist  
+**Link:** https://arxiv.org/abs/1810.05687  
+**Presenter:** [Melisa Şener](https://github.com/melsener)  
+**Date:** 27.09.2019  
+**[Presentation](slides/chebotar2019closing.pdf)**
 
-**Title:** Learning Mesh-Based Simulation with Graph Networks  
-**Authors:** Tobias Pfaff, Meire Fortunato, Alvaro Sanchez-Gonzalez, Peter W. Battaglia  
-**Presenter:** Ibrahim Ozcan  
-**Date:** 18.02.2022
+**Title:** Self-attention in general  
+**Link:** https://arxiv.org/abs/1706.03762  
+**Presenter:** [Alper Ahmetoğlu](https://github.com/alper111)
+**Date:** 04.10.2019
 
-**Title:** Human-level concept learning through probabilistic program induction  
-**Authors:** Brenden M. Lake, Ruslan Salakhutdinov, Joshua B. Tenenbaum  
-**Presenter:** Alper Ahmetoglu
-**Date:** 17.03.2022
+**Title:** Learning Synergies between Pushing and Grasping with Self-supervised  
+**Author:** Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, Thomas Funkhouser  
+**Conference:** IROS 2018  
+**Misc:** Best Cognitive Robotics Paper Award Finalist  
+**Link:** http://vpg.cs.princeton.edu/, https://arxiv.org/abs/1803.09956  
+**Presenter:** Serkan Buğur  
+**Date:** 11.10.2019  
+**[Presentation](slides/zeng2018learning.pdf)**
 
-**Title:** Interpretable Social Anchors for Human Trajectory Forecasting in Crowds  
-**Authors:** Parth Kothari, Brian Sifringer, Alexandre Alahi  
-**Conference:** CVPR 2021  
-**Link:** https://arxiv.org/abs/2105.03136  
-**Presenter:** [Yigit Yildirim](https://cmpe.boun.edu.tr/~yigit/)  
-**Date:** 24.03.2022  
-**[Presentation](https://docs.google.com/presentation/d/1zvN-OFasf8bkbZJ9agVIcPU6LbCGmAPZK3Muq0tUMXQ/edit?usp=sharing)**  
+**Title:** Learning Contact-Rich Manipulation Skills with Guided Policy Search  
+**Author:** Sergey Levine, Nolan Wagener, Pieter Abbeel  
+**Conference:** ICRA 2015  
+**Link:** https://arxiv.org/abs/1501.05611  
+**Presenter:** [Mete Tuluhan Akbulut](https://github.com/mtuluhanakbulut)  
+**Date:** 18.10.2019
 
-**Title:** CoMPS: Continual Meta Policy Search  
-**Authors:** Glen Berseth, Zhiwei Zhang, Grace Zhang, Chelsea Finn, Sergey Levine  
-**Presenter:** Suzan Ece Ada  
-**Date:** 31.03.2022
+**Title:** End-to-End Robotic Reinforcement Learning without Reward Engineering  
+**Author:** Avi Singh, Larry Yang, Kristian Hartikainen, Chelsea Finn, Sergey Levine  
+**Conference:** RSS 2019  
+**Link:** https://arxiv.org/abs/1904.07854  
+**Presenter:** [Utku Bozdoğan](https://github.com/UtkuBozdogan)  
+**Date:** 28.10.2019  
+**[Presentation](slides/singh2019endtoend.pdf)**
 
-**Title:** Do As I Can, Not As I Say: Grounding Language in Robotic Affordances  
-**Authors:** Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng  
-**Presenter:** Alara Dirik  
-**Date:** 14.04.2022
+**Title:** Belief Regulated Dual Propagation Nets for Learning Action Effects on Articulated Multi-Part Objects  
+**Author:** Ahmet E. Tekden, Aykut Erdem, Erkut Erdem, Mert Imre, M. Yunus Seker, Emre Ugur  
+**Conference:** ICRA 2020  
+**Link:** https://arxiv.org/abs/1909.03785  
+**Project page:** https://fzaero.github.io/BRDPN/  
+**Presenter:** [Ahmet Tekden](https://github.com/fzaero)  
+**Date:** 22.11.2019  
+**[Presentation](slides/tekden2019belief.pdf)**
 
-**Title:** O2O-Afford: Annotation-Free Large-Scale Object-Object Affordance Learning  
-**Authors:** Kaichun Mo, Yuzhe Qin, Fanbo Xiang, Hao Su, Leonidas Guibas  
-**Presenter:** Utku Bozdogan  
-**Date:** 21.04.2022
+**Title**: Learning to Manipulate Object Collections Using Grounded State Representations
+**Author**: Matthew Wilson, Tucker Hermans  
+**Conference**: CORL 2019  
+**Misc**: Best System Paper Award  
+**Link**: https://matwilso.github.io/projects/object_collections, https://arxiv.org/abs/1909.07876  
+**Presenter**: [M. Yunus Seker](https://myunusseker.github.io)  
+**Date:** 29.11.2019  
+**[Presentation](slides/wilson2019learning.pdf)**
 
-**Title:** Learning Rope Manipulation Policies Using Dense Object Descriptors Trained on Synthetic Depth Data  
-**Authors:** Priya Sundaresan, Jennifer Grannen, Brijen Thananjeyan, Ashwin Balakrishna, Michael Laskey, Kevin Stone, Joseph E. Gonzalez, Ken Goldberg  
-**Presenter:** Muhammet Hatipoglu  
-**Date:** 12.05.2022
+**Title**: Differentiable Physics and Stable Modes for Tool Use and Manipulation Planning  
+**Author**: Marc Toussaint, Kelsey R Allen, Kevin A Smith, Joshua B Tenenbaum  
+**Link**: http://www.roboticsproceedings.org/rss14/p44.pdf  
+**Conference**: RSS 2018  
+**Misc**: Best Paper Award  
+**Presenter**: [Ahmet Tekden](https://github.com/fzaero)  
+**Date:** 06.12.2019  
+**[Presentation](slides/toussaint2018differentiable.pdf)**
 
-**Title:** Adaptive Shared Control with Human Intention Estimation for Human Agent Collaboration  
-**Authors:** Negin Amirshirzad, Emre Ugur, Ozkan Bebek, Erhan Oztop  
-**Presenter:** Negin Amirshirzad  
-**Date:** 03.06.2022
 
-**Title:** Intrinsic Rewards in Human Curiosity-Driven Exploration: An Empirical Study  
-**Authors:** Alexandr Ten, Jacqueline Gottlieb, Pierre-Yves Oudeyer  
-**Presenter:** Gulsum Tuba Cibuk Girgin  
-**Date:** 24.06.2022
-
-**Title:** DayDreamer: World Models for Physical Robot Learning  
-**Authors:** Philipp Wu, Alejandro Escontrela, Danijar Hafner, Ken Goldberg, Pieter Abbeel  
-**Presenter:** Alper Ahmetoglu  
-**Date:** 08.07.2022
-
-**Title:** Learning Temporally Extended Skills in Continuous Domains as Symbolic Actions for Planning  
-**Authors:** Jan Achterhold, Markus Krimmel, Joerg Stueckler  
-**Presenter:** Alper Ahmetoglu
-**Date:** 13.10.2022
-
-**Title:** LEAGUE: Guided Skill Learning and Abstraction for Long-Horizon Manipulation  
-**Authors:** Shuo Cheng, Danfei Xu  
-**Presenter:** Suzan Ece Ada  
-**Date:** 03.11.2022
-
-**Title:** MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis  
-**Authors:** Yaqian Liang, Shanshan Zhao, Baosheng Yu, Jing Zhang, Fazhi He  
-**Presenter:** Ibrahim Ozcan  
-**Date:** 10.11.2022
-
-**Title:** Adversarial Motion Priors for Stylized Physics-Based Character Control  
-**Authors:** Xue Bin Peng, Ze Ma, Pieter Abbeel, Sergey Levine, Angjoo Kanazawa 
-**Journal:** ACM Transactions on Graphics, 2021
-**Link:** [https://arxiv.org/abs/2104.02180](https://arxiv.org/abs/2104.02180) 
-**Presenter:** [Muhammet Hatipoglu](https://github.com/ocg2347)  
-**Date:** 01.12.2022  
-**[Presentation](https://docs.google.com/presentation/d/18WPN3kz1u_aI77AYIKbjXcKFlLJ1E1XUwQeB8SNyBRU/edit?usp=sharing)**  
-
-**Title:** Do As I Can, Not As I Say: Grounding Language in Robotic Affordances  
-**Authors:** Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes, Byron David, Chelsea Finn, Chuyuan Fu, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Daniel Ho, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Eric Jang, Rosario Jauregui Ruano, Kyle Jeffrey, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Kuang-Huei Lee, Sergey Levine, Yao Lu, Linda Luu, Carolina Parada, Peter Pastor, Jornell Quiambao, Kanishka Rao, Jarek Rettinghouse, Diego Reyes, Pierre Sermanet, Nicolas Sievers, Clayton Tan, Alexander Toshev, Vincent Vanhoucke, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Mengyuan Yan, Andy Zeng  
-**Presenter:** Gulsum Tuba Cibuk Girgin  
-**Date:** 22.12.2022
-
-## 2023
----
-
-**Title:** RT-1: Robotics Transformer for Real-World Control at Scale  
-**Authors:** Anthony Brohan, Noah Brown, Justice Carbajal, Yevgen Chebotar, Joseph Dabis, Chelsea Finn, Keerthana Gopalakrishnan, Karol Hausman, Alex Herzog, Jasmine Hsu, Julian Ibarz, Brian Ichter, Alex Irpan, Tomas Jackson, Sally Jesmonth, Nikhil J Joshi, Ryan Julian, Dmitry Kalashnikov, Yuheng Kuang, Isabel Leal, Kuang-Huei Lee, Sergey Levine, Yao Lu, Utsav Malla, Deeksha Manjunath, Igor Mordatch, Ofir Nachum, Carolina Parada, Jodilyn Peralta, Emily Perez, Karl Pertsch, Jornell Quiambao, Kanishka Rao, Michael Ryoo, Grecia Salazar, Pannag Sanketi, Kevin Sayed, Jaspiar Singh, Sumedh Sontakke, Austin Stone, Clayton Tan, Huong Tran, Vincent Vanhoucke, Steve Vega, Quan Vuong, Fei Xia, Ted Xiao, Peng Xu, Sichun Xu, Tianhe Yu, Brianna Zitkovich  
-**Presenter:** Alper Ahmetoglu  
-**Date:** 05.01.2023
-
-**Title:** Dynamic Attention-Based CVAE-GAN for Pedestrian Trajectory Prediction  
-**Authors:** Zhou Zhou, Gang Huang, Zhaoxin Su, Yongfu Li, Wei Hua  
-**Presenter:** Yigit Yildirim  
-**Date:** 11.01.2023
-
-**Title:** On the Role of Structure in Manipulation Skill Learning  
-**Authors:** Eric Rosen, Ben Abbatematteo, Skye Thompson, Tuluhan Akbulut, George Konidaris  
-**Presenter:** Tuluhan Akbulut  
-**Date:** 15.02.2023
-
-**Title:** PaLM-E: An Embodied Multimodal Language Model  
-**Authors:** Danny Driess, Fei Xia, Mehdi S. M. Sajjadi, Corey Lynch, Aakanksha Chowdhery, Brian Ichter, Ayzaan Wahid, Jonathan Tompson, Quan Vuong, Tianhe Yu, Wenlong Huang, Yevgen Chebotar, Pierre Sermanet, Daniel Duckworth, Sergey Levine, Vincent Vanhoucke, Karol Hausman, Marc Toussaint, Klaus Greff, Andy Zeng, Igor Mordatch, Pete Florence  
-**Presenter:** Batuhan Celik  
-**[Project Page](https://palm-e.github.io/)**  
-**[Paper](https://palm-e.github.io/assets/palm-e.pdf)**  
-**[Presentation](https://docs.google.com/presentation/d/1dAP3PDUKfRNCWC9-H4c5y0bCXlgfKCJmxHVYdSIzABY/edit?usp=sharing)**  
-**Date:** 27.03.2023
-
-**Title:** Planning with Spatial-Temporal Abstraction from Point Clouds for Deformable Object Manipulation  
-**Authors:** Xingyu Lin, Carl Qi, Yunchu Zhang, Zhiao Huang, Katerina Fragkiadaki, Yunzhu Li, Chuang Gan, David Held  
-**Presenter:** Suzan Ece Ada  
-**Date:** 03.04.2023
-
-**Title:** Segment Anything  
-**Authors:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick  
-**Presenter:** Muhammet Hatipoglu  
-**Date:** 17.04.2023
-
-**Title:** Toward Human-Like Social Robot Navigation: A Large-Scale, Multi-Modal, Social Human Navigation Dataset  
-**Authors:** Duc M. Nguyen, Mohammad Nazeri, Amirreza Payandeh, Aniket Datar, Xuesu Xiao  
-**Title:** Local Navigation Among Movable Obstacles with Deep Reinforcement Learning  
-**Authors:** Linghong Yao, Valerio Modugno, Yuanchang Liu, Danail Stoyanov, Dimitrios Kanoulas 
-
-**Title:** SOCIALGYM 2.0: Simulator for Multi-Agent Social Robot Navigation in Shared Human Spaces  
-**Authors:** Zayne Sprague, Rohan Chandra, Jarrett Holtz, Joydeep Biswas  
-**Title:** Social robot navigation in human-robot interactive environments: Social force model approach  
-**Authors:** Hasan Kivrak, Hatice Kose  
-**Presenter:** Yigit Yildirim  
-**Date:** 24.04.2023
-
-**Title:** NaviSTAR: Socially Aware Robot Navigation with Hybrid Spatio-Temporal Graph Transformer and Preference Learning  
-**Authors:** Weizheng Wang, Ruiqi Wang, Le Mao, Byung-Cheol Min  
-**Presenter:** Yigit Yildirim  
-**Date:** 08.05.2023
-
-**Title:** Voyager: An Open-Ended Embodied Agent with Large Language Models  
-**Authors:** Guanzhi Wang, Yuqi Xie, Yunfan Jiang, Ajay Mandlekar, Chaowei Xiao, Yuke Zhu, Linxi Fan, Anima Anandkumar  
-**Title:** SPRING: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning  
-**Authors:** Yue Wu, Shrimai Prabhumoye, So Yeon Min, Yonatan Bisk, Ruslan Salakhutdinov, Amos Azaria, Tom Mitchell, Yuanzhi Li  
-**Presenter:** Alper Ahmetoglu  
-**Date:** 05.06.2023
-
-**Title:** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control  
-**Authors:** Google DeepMind  
-**Presenter:** Alper Ahmetoglu  
-**Date:** 17.08.2023
-
-**Title:** Planning for Multi-Object Manipulation with Graph Neural Network Relational Classifiers  
-**Authors:** Yixuan Huang, Adam Conkey, Tucker Hermans  
-**Presenter:** Gulsum Tuba Cibuk Girgin  
-**Date:** 22.08.2023
-
-**Title:** The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision  
-**Authors:** Jiayuan Mao, Chuang Gan, Pushmeet Kohli, Joshua B. Tenenbaum, Jiajun Wu  
-**Presenter:** Batuhan Celik  
-**[Paper](https://arxiv.org/abs/1904.12584)**  
-**[Presentation](https://docs.google.com/presentation/d/1ZOPudI-BjRbqo8X0x2iBn-lBsgOY-uvDtJ2gq5goo6g/edit?usp=sharing)**    
-**Date:** 04.10.2023
