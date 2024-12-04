@@ -3,19 +3,19 @@
 ## 2024
 ---
 
-**Title:** To be added
-**Authors:** To be added
-**Presenter:** Fatih Dogangun
-**Date:** 03.12.2024
+**Title:** To be added  
+**Authors:** To be added  
+**Presenter:** Fatih Dogangun  
+**Date:** 03.12.2024  
 
-**Title:** To be added
-**Authors:** To be added
-**Presenter:** Deniz Bilge Akkoc, Ahmet Fırat Gamsiz
-**Date:** 03.12.2024
+**Title:** To be added  
+**Authors:** To be added  
+**Presenter:** Deniz Bilge Akkoc, Ahmet Fırat Gamsiz  
+**Date:** 03.12.2024  
 
-**Title:** [Long Horizon Inverse Task Planning With Vision Language Action Models](https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p)
-**Presenter:** Ahmet Firat Gamsiz, Deniz Bilge Akkoc
-**Date:** ???
+**Title:** [Long Horizon Inverse Task Planning With Vision Language Action Models](https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p)  
+**Presenter:** Ahmet Firat Gamsiz, Deniz Bilge Akkoc  
+**Date:** ???  
 
 
 ## 2023
