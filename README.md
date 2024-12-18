@@ -13,18 +13,20 @@
 **Presenter:** Deniz Bilge Akkoc, Ahmet Fırat Gamsiz  
 **Date:** 03.12.2024  
 
-**Title:** [Long Horizon Inverse Task Planning With Vision Language Action Models](https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p)  
-**Presenter:** Ahmet Firat Gamsiz, Deniz Bilge Akkoc  
+**Title:** Long Horizon Inverse Task Planning With Vision Language Action Models \
+**Presenter:** Ahmet Firat Gamsiz, Deniz Bilge Akkoc \
+**[Presentation](https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p)** \
 **Date:** ???  
 
 
 ## 2023
 ---
 
-**Title:** Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping
-**Authors:** Adam Rashid*, Satvik Sharma*, Chung Min Kim, Justin Kerr, Lawrence Yunliang Chen
-Angjoo Kanazawa, Ken Goldberg
-**Presenter:** Ahmet Firat Gamsiz
+**Title:** Language Embedded Radiance Fields for Zero-Shot Task-Oriented Grasping \
+**Authors:** Adam Rashid*, Satvik Sharma*, Chung Min Kim, Justin Kerr, Lawrence Yunliang Chen \
+Angjoo Kanazawa, Ken Goldberg \
+**Presenter:** Ahmet Firat Gamsiz \
+**[Presentation](https://docs.google.com/presentation/d/1ro23YpiAIEXUlPaps_BSJ9D-WbWie5VGGO2MZ6HmR7I/edit?usp=sharing)** \
 **Date:** lost to time
 
 **Title:** The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision  
