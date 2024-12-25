@@ -20,9 +20,9 @@
 
 **Title:** Information Maximizing Curriculum: A Curriculum-Based Approach for Imitating Diverse Skills  
 **Authors:** Denis Blessing, Onur Celik, Xiaogang Jia, Maximilian Xiling Li, Rudolf Lioutikov, Gerhard Neumann  
-**Presenter:** Yigit Yildirim
-**Date:** 08.10.2024
-**[Presentation]([https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p](https://docs.google.com/presentation/d/1Ljzhueus0z1BKz9I0X4Ur8MPctGjik82v8zzDAs2fNk/edit?usp=drivesdk))** \
+**Presenter:** Yigit Yildirim  
+**Date:** 08.10.2024  
+**[Presentation](https://docs.google.com/presentation/d/1Ljzhueus0z1BKz9I0X4Ur8MPctGjik82v8zzDAs2fNk/edit?usp=drivesdk)**  
 
 
 ## 2023
