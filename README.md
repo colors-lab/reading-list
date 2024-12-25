@@ -3,13 +3,13 @@
 ## 2024
 ---
 
-**Title:** To be added  
-**Authors:** To be added  
+**Title:** Predicate Invention for Bilevel Planning  
+**Authors:** Tom Silver, Rohan Chitnis, Nishanth Kumar, Willie McClinton, Tomas Lozano-Perez, Leslie Pack Kaelbling, Joshua B. Tenen  
 **Presenter:** Fatih Dogangun  
-**Date:** 03.12.2024  
+**Date:** 04.12.2024  
 
-**Title:** To be added  
-**Authors:** To be added  
+**Title:** Practice Makes Perfect: Planning to Learn SKill Parameter Policies
+**Authors:** Nishanth Kumar, Tom Silver, Willie McClinton, Linfeng Zhao, Stephen Proul, Tomas Lozano-Perez, Leslie Pack Kaelbling, Jennifer Barry
 **Presenter:** Deniz Bilge Akkoc, Ahmet Fırat Gamsiz  
 **Date:** 03.12.2024  
 
@@ -17,6 +17,12 @@
 **Presenter:** Ahmet Firat Gamsiz, Deniz Bilge Akkoc \
 **[Presentation](https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p)** \
 **Date:** ???  
+
+**Title:** Information Maximizing Curriculum: A Curriculum-Based Approach for Imitating Diverse Skills  
+**Authors:** Denis Blessing, Onur Celik, Xiaogang Jia, Maximilian Xiling Li, Rudolf Lioutikov, Gerhard Neumann  
+**Presenter:** Yigit Yildirim
+**Date:** 08.10.2024
+**[Presentation]([https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p](https://docs.google.com/presentation/d/1Ljzhueus0z1BKz9I0X4Ur8MPctGjik82v8zzDAs2fNk/edit?usp=drivesdk))** \
 
 
 ## 2023
