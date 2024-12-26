@@ -13,6 +13,12 @@
 **Presenter:** Deniz Bilge Akkoc, Ahmet Fırat Gamsiz  
 **Date:** 03.12.2024  
 
+**Title:** BMP: Bridging the Gap between B-Spline and Movement Primitives  
+**Authors:** Weiran Liao, Ge Li, Hongyi Zhou, Rudolf Lioutikov, Gerhard Neumann  
+**Presenter:** Bora Toprak Temir  
+**Date:** 26.11.2024  
+**[Presentation](https://docs.google.com/presentation/d/1p2Dxyinm2YgxQsOq4pfvw1Q_ZUyu1_xrSElpUhAK-Jc/edit#slide=id.p)**
+
 **Title:** Long Horizon Inverse Task Planning With Vision Language Action Models \
 **Presenter:** Ahmet Firat Gamsiz, Deniz Bilge Akkoc \
 **[Presentation](https://docs.google.com/presentation/d/1dIFFtNyiRQWlcNptxDQYgUbzFIaDN79rx3BgNTgSJKw/edit#slide=id.p)** \
