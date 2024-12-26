@@ -7,11 +7,13 @@
 **Authors:** Tom Silver, Rohan Chitnis, Nishanth Kumar, Willie McClinton, Tomas Lozano-Perez, Leslie Pack Kaelbling, Joshua B. Tenen  
 **Presenter:** Fatih Dogangun  
 **Date:** 04.12.2024  
+**[Presentation](https://docs.google.com/presentation/d/1WuIdNWzHb1pPb5zu69Kbod4BYfxpUvx9HKaX3OFxX98/edit?usp=sharing)**  
 
-**Title:** Practice Makes Perfect: Planning to Learn SKill Parameter Policies
-**Authors:** Nishanth Kumar, Tom Silver, Willie McClinton, Linfeng Zhao, Stephen Proul, Tomas Lozano-Perez, Leslie Pack Kaelbling, Jennifer Barry
-**Presenter:** Deniz Bilge Akkoc, Ahmet Fırat Gamsiz  
+**Title:** Practice Makes Perfect: Planning to Learn SKill Parameter Policies  
+**Authors:** Nishanth Kumar, Tom Silver, Willie McClinton, Linfeng Zhao, Stephen Proul, Tomas Lozano-Perez, Leslie Pack Kaelbling, Jennifer Barry  
+**Presenter:** Fatih Dogangun  
 **Date:** 03.12.2024  
+**[Presentation](https://docs.google.com/presentation/d/1iHCqKNBwHQbv7Z7XSW5GNN61LCLGHUb1zaALs6_XgmE/edit?usp=sharing)**  
 
 **Title:** BMP: Bridging the Gap between B-Spline and Movement Primitives  
 **Authors:** Weiran Liao, Ge Li, Hongyi Zhou, Rudolf Lioutikov, Gerhard Neumann  
