@@ -13,6 +13,15 @@
 **Date:** 14.03.2025  
 **[Presentation](https://docs.google.com/presentation/d/1HHo1dOAksEu8g1oISCLFMbkvXmEM6Znxc2WIW6JOD1I/edit?usp=sharing)**  
 
+**First Paper**
+**Title:** The third ai summer: Aaai robert s. engelmore memorial lecture 
+**Authors:** Henry Kautz
+**Second Paper**
+**Title:** The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence 
+**Authors:** Gary Marcus
+**Presenter:** Berke Kartal 
+**Date:** 05.03.2025
+**[Presentation](https://docs.google.com/presentation/d/1NcUL8x5xfQuIAnOufvqcRa6Q7hBTiOXWa1KxWdnN6j0/edit?usp=sharing)**  
 
 ---
 
