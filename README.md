@@ -1,6 +1,14 @@
 # Reading list
 
-## 2024
+## 2025
+
+**Title:** Predicate Invention for Bilevel Planning  
+**Authors:** Tom Silver, Rohan Chitnis, Nishanth Kumar, Willie McClinton, Tomas Lozano-Perez, Leslie Pack Kaelbling, Joshua B. Tenen  
+**Presenter:** Bora Toprak Temir   
+**Date:** 14.03.2025  
+**[Presentation](https://docs.google.com/presentation/d/1HHo1dOAksEu8g1oISCLFMbkvXmEM6Znxc2WIW6JOD1I/edit?usp=sharing)**  
+
+
 ---
 
 **Title:** Predicate Invention for Bilevel Planning  
