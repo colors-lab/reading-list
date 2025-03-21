@@ -1,6 +1,11 @@
 # Reading list
 
 ## 2025
+**Title:** From Reals to Logic and Back: Inventing Symbolic Vocabularies, Actions, and Models for Planning from Raw Data
+**Authors:** Naman Shah, Jayesh Nagpal, Pulkit Verma, and Siddharth Srivastava 
+**Presenter:** Burcu Kılıç
+**Date:** 19.03.2025  
+**[Presentation](https://docs.google.com/presentation/d/11_559cB967E9Xodr18miXejJV5_uVaT03am-Qn3hhgI/edit?usp=sharing)**  
 
 **Title:** Predicate Invention for Bilevel Planning  
 **Authors:** Tom Silver, Rohan Chitnis, Nishanth Kumar, Willie McClinton, Tomas Lozano-Perez, Leslie Pack Kaelbling, Joshua B. Tenen  
