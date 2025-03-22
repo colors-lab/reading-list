@@ -24,8 +24,8 @@
 **[Presentation](https://docs.google.com/presentation/d/1NcUL8x5xfQuIAnOufvqcRa6Q7hBTiOXWa1KxWdnN6j0/edit?usp=sharing)**    
 
 **Title:** Neuro-Symbolic Robotics  
-**Authors:** Emre Ugur, Alper Ahmetoglu, Yukie Nagai, Tadahiro Taniguchi, Matteo Saveriano, Erhan Oztop
-**Presenter:** Ahmet Fırat Gamsız 
+**Authors:** Emre Ugur, Alper Ahmetoglu, Yukie Nagai, Tadahiro Taniguchi, Matteo Saveriano, Erhan Oztop  
+**Presenter:** Ahmet Fırat Gamsız  
 **Date:** 26.02.2025  
 **[Presentation](https://docs.google.com/presentation/d/1KFyLdKWeVihYcIjyflX-dUtIkJueAdVKPEmm7RX6TWg/edit?usp=sharing)**  
 
