@@ -1,9 +1,9 @@
 # Reading list
 
 ## 2025
-**Title:** DeepProbLog: Neural Probabilistic Logic Programming
-**Authors:** Robin Manhaeve, Sebastijan Dumančić, Angelika Kimmig, Thomas Demeester, Luc De Raedt
-**Presenter:** Deniz Bilge Akkoç
+**Title:** DeepProbLog: Neural Probabilistic Logic Programming  
+**Authors:** Robin Manhaeve, Sebastijan Dumančić, Angelika Kimmig, Thomas Demeester, Luc De Raedt  
+**Presenter:** Deniz Bilge Akkoç  
 **Date:** 26.03.2025  
 **[Presentation](https://docs.google.com/presentation/d/1BJyHkppiOG3LLSlBd_PkIt10rH9HFG8uKLahjpWVIMc/edit?usp=sharing)**  
 
